@@ -1,0 +1,381 @@
+---
+sign_in: में प्रवेश करें
+sign_up: इन
+agent_panel: एजेंट पैनल
+admin_panel: व्यवस्थापक पैनल
+country: देश
+city: शहर
+register: रजिस्टर
+details: विवरण
+view_all: सभी देखें
+order_by: आदेश तक
+none: कोई नहीं
+terms_and_conditions: नियम और स्थिति
+reg_success_message: अपने खाते का पंजीकरण सफल है। एक ईमेल आपके ईमेल के लिए भेजा गया था। अपने account.Thanks सक्रिय करने के लिए कि ईमेल का पालन करें
+recover: स्वस्थ
+oops: ओह, पृष्ठ नहीं मिला
+address: पता
+all: सभी
+contact_us: हमसे संपर्क करें
+confirmation: पुष्टिकरण
+tags: टैग
+login: लॉगिन
+post_not_found: पोस्ट नहीं मिले
+view_more: और देखें
+image: छवि
+create: बनाएं
+send: भेजें
+contact_subject: संपर्क ईमेल
+password: पासवर्ड
+confirm_password: पासवर्ड की पुष्टि
+all_posts: सभी पदों
+no_posts: नहीं पोस्ट
+title: शीर्षक
+description: विवरण
+status: स्थिति
+actions: क्रिया
+type:
+type_something: कुछ लिखें
+content: सामग्री
+category: श्रेणी
+all_categories: सभी श्रेणियों
+edit_category: संपादित श्रेणी
+new_category: नई श्रेणी
+edit: संपादित करें
+delete: मिटायें
+name: नाम
+save: सहेजें
+no_parent: कोई माता पिता
+add_another: एक और जोड़ें
+export_to_file: निर्यात दायर करने के लिए
+options: विकल्प
+all_pages: सभी पृष्ठों
+no_pages: नहीं पृष्ठों
+manage_menu: मेनू का प्रबंधन
+menu_title: मेनू शीर्षक
+menu_alias: मेनू उर्फ
+show_in_menu: मेनू में दिखाएँ
+page_layout: पेज लेआउट
+content_from: से सामग्री
+url: यूआरएल
+seo_options: एसईओ विकल्प
+meta_description: मेटा विवरण
+key_words: कुंजी शब्द
+crawl_after: के बाद क्रॉल (दिन)
+all_plugins: सभी plugins
+no_plugins: कोई प्लगइन्स
+name_and_version: नाम और संस्करण
+change_password: पासवर्ड बदलें
+current_password: वर्तमान पासवर्ड
+new_password: नया पासवर्ड
+retype_password: पासवर्ड फिर से लिखें
+password_reset_info_msg: पहली बार अपने नए पासवर्ड सेट करें
+edit_profile: प्रोफ़ाइल संपादित करें
+profile_picture: प्रोफ़ाइल चित्र
+username: यूजर का नाम
+email: ईमेल
+first_name: प्रथम नाम
+last_name: नाम
+gender: लिंग
+phone: फोन
+company_name: कंपनी का नाम
+about_me: मेरे बारे में
+facebook_account: फेसबुक अकाउंट
+twitter_account: ट्विटर अकाउंट
+linkedin_account: लिंक्डइन अकाउंट
+gp_account: गूगल अकाउंट
+account_msg: Please enter the link, without http: //
+contact_email: संपर्क ईमेल
+webadmin_name: Webadmin नाम
+webadmin_email: Webadmin ईमेल
+update: अद्यतन
+upload: अपलोड
+site_settings: साइट सेटिंग्स
+site_title: साइट शीर्षक
+footer_text: पाद पाठ
+site_logo: साइट लोगो
+site_language: साइट भाषा
+site_text_direction: साइट पाठ दिशा
+per_page: अंक लगाना प्रति पेज
+default_page_layout: चूक पेज लेआउट
+smtp_email_settings: एसएमटीपी ईमेल सेटिंग
+smtp_email: एसएमटीपी ईमेल
+smtp_host: एसएमटीपी होस्ट
+smtp_port: एसएमटीपी पोर्ट
+smtp_timeout: एसएमटीपी मध्यांतर
+smtp_user: एसएमटीपी उपयोगकर्ता
+smtp_password: एसएमटीपी पासवर्ड
+generate_site_map: साइट मानचित्र उत्पन्न
+sitemap_info_msg: NB: यदि आप साइटमैप एक्सएमएल पर शामिल होना चाहते हैं, जो चयन करें। बाद सफल पीढ़ी sitemap.xml जड़ निर्देशिका के अंतर्गत सहेजा गया है। तुम भी अपने यूआरएल सहित के लिए उस फ़ाइल को संपादित कर सकते हैं।
+pages: पेज
+view_xml: देखें एक्सएमएल
+create_xml: एक्सएमएल बनाएं
+manage_backups: प्रबंधित बैकअप
+create_sql_backup: एसक्यूएल बैकअप बनाएं
+create_image_backup: छवि बैकअप बनाएं
+restore: पुनर्स्थापित
+download: डाउनलोड
+dashboard: डैशबोर्ड
+overview_stats_more: अवलोकन, आँकड़े और अधिक
+visit_site: भेंट साइट
+logout: लॉगआउट
+themes: विषय
+locations: स्थान
+profile: प्रोफ़ाइल
+agents: एजेंट
+widgets: विजेट्स
+all_widgets: सभी विजेट
+widget_positions: विजेट पदों
+new_post: नई पोस्ट
+pages_and_menu: पन्ने और मेनू
+new_page: नया पृष्ठ
+menu: मेनू
+system: सिस्टम
+edit_email_text: संपादित ईमेल पाठ
+admin_settings: वेब व्यवस्थापक सेटिंग्स
+sitemap: साइट मानचित्र
+activate: सक्रिय
+active_theme: चर्चित थीम
+available_themes: उपलब्ध विषयों
+all_users: सभी उपयोगकर्ता
+create_user: उपयोगकर्ता बनाएं
+export_user_email: निर्यात उपयोगकर्ता ईमेल (.csv)
+profile_info: जानकारी प्रोफाइल
+manage_menu: मेनू का प्रबंधन
+edit_page: पृष्ठ संपादित
+create_widget: विजेट बनाएं
+widget_name: विजेट नाम
+activate_deactivate: सक्रिय / डी-एक्टिवेट
+show: दिखाओ
+available_widgets: उपलब्ध विजेट्स
+active_widgets: सक्रिय विजेट
+delete_warning: तुम्हें यकीन है को नष्ट करना चाहते हैं।
+yes: हाँ'
+no: नहीं'
+fa_icon: एफए आइकन वर्ग
+post_ad: पोस्ट विज्ञापन
+post_ad_subtitle: अपने विज्ञापन विस्तार रखो
+signin: साइन इन
+signup: पंजीकरण
+signup_title: अपना खाता बनाएँ
+not_found: नहीं मिला
+purpose: उद्देश्य
+select_category: श्रेणी चुनें
+address: पता
+upload_later_msg: आप पोस्ट निर्माण के बाद गैलरी तस्वीरें और वीडियो URL अपलोड कर सकेंगे
+user_panel: उपयोगकर्ता पैनल
+logout: लॉगआउट
+all_posts: सभी पदों
+put_as_comma_seperated: (,) अल्पविराम sperated के रूप में डाल
+added:
+location: स्थान
+views: दृश्य
+add_new: नई जोड़ें
+search: खोज
+contact_mode: संपर्क मोड
+reset: रीसेट
+contact: संपर्क
+type_your_message: यहां अपना संदेश लिखें ..
+mail_sent: मेल भेजा
+home: घर
+list_your_ad: अपने विज्ञापन सूची
+print: प्रिंट
+remember_me: मुझे याद
+forgot_password: पासवर्ड भूल गए
+login_to_your_account: अपने खाते में प्रवेश
+register_your_account: अपने खाते रजिस्टर
+male:पुरूष
+female: महिला
+state: राज्य
+users: उपयोगकर्ता
+ads: विज्ञापन
+categories: श्रेणियाँ
+top_posts: शीर्ष पोस्ट
+default_site_settings: चूक साइट सेटिंग्स
+webadmin_settings: Webadmin सेटिंग्स
+banner_settings: बैनर व्यवस्था
+logged_in_as: रूप में लॉग इन
+password_change_success: पासवर्ड सफलतापूर्वक बदला
+email_sent_inbox: एक ईमेल आपके inbox.Check कि ईमेल करने के लिए भेज रहा है।
+password_recovery_link_invalid: पासवर्ड रिकवरी लिंक मान्य नहीं है
+user_updated: उपयोगकर्ता Updated
+user_deleted: उपयोगकर्ता हटाए गए
+data_inserted: डाटा डाला
+data_updated: डेटा अपडेट
+settings_updated: सेटिंग को अपडेट
+page_updated: पेज Updated
+page_created: पेज बनाया
+page_deleted: पृष्ठ हटा
+menu_updated: मेनू Updated
+site_map_generation_success: साइट मानचित्र सफलतापूर्वक उत्पन्न।
+select_option: पर चयन या अधिक विकल्पों का चयन करें।
+image_backup_created: छवि बैकअप बनाया
+language_translated: भाषा का अनुवाद
+backup_deleted: बैकअप हटाए गए
+database_restored: डेटाबेस लौटी
+theme_activated: थीम सक्रिय
+user_created: उपयोगकर्ता बनाया
+widget_position_updated: विजेट स्थिति अद्यतन
+widget_created: विजेट बनाया
+settings_updated: सेटिंग को अपडेट
+widget_data_updated: विजेट डेटा अपडेट
+unable_to_write_widget: विजेट लिखने में असमर्थ
+admin_change_pass_help: कोई परिवर्तन की जरूरत है, तो खाली छोड़ दो
+login_with_google: गूगल के साथ लॉगिन
+login_with_facebook: फेसबुक के साथ लॉगिन
+register_for_new_account : नए खाते के लिए रजिस्टर
+site_map : साइट मानचित्र
+show_site_map : साइट मानचित्र दिखाएँ
+about : के बारे में
+see_full_documentation: पूर्ण दस्तावेज़ देखें
+edit_profile: प्रोफ़ाइल संपादित करें
+admin: व्यवस्थापक
+re_password: पासवर्ड फिर से लिखें
+explain_widget_position: विजेट पदों के बारे में बताएं
+new_ad: नया विज्ञापन
+select_one: एक का चयन करें
+username_or_email: नाम या ईमेल
+post_detail: पोस्ट विस्तार
+edit_user: संपादित उपयोगकर्ता
+the_field_is_required: %s क्षेत्र की आवश्यकता है।
+valid_email: %s क्षेत्र एक मान्य ईमेल पता होना चाहिए।
+min_length: %s क्षेत्र लंबाई में कम से कम% s अक्षरों का होना चाहिए।
+numeric: %s क्षेत्र केवल अंक ही होना चाहिए।
+matches: %s क्षेत्र% s के क्षेत्र से मेल नहीं खाती।
+greater_than: %s क्षेत्र% की तुलना में अधिक से अधिक संख्या में होते हैं चाहिए।
+must_accept_terms: आप नियम और शर्त को स्वीकार करना चाहिए
+dont_have_permission: आप इस पृष्ठ का उपयोग करने की अनुमति नहीं है
+email_allready_in_use: पहले से ही उपयोग में ईमेल
+username_allready_in_use: प्रयोक्ता नाम allready उपयोग में
+current_password_not_matched: वर्तमान पासवर्ड didn \ 'टी मैच
+email_not_matched: मिलान किया नहीं ईमेल
+account_not_confirmed: इस बात की पुष्टि नहीं खाता
+unique_alias: %s क्षेत्र अद्वितीय की जरूरत है
+smtp_email_settings: एसएमटीपी ईमेल सेटिंग
+error_occured: त्रुटि हुई। नीचे दिए गए क्षेत्रों की जाँच करें
+user_profile: उपयोगकर्ता प्रोफ़ाइल '
+user_email: उपयोगकर्ता ई-मेल
+target_lang_name: लक्ष्य भाषा
+enable_signup: साइनअप सक्षम करें
+facebook_app_settings: फेसबुक अनुप्रयोग सेटिंग्स
+enable_facebook_login: फेसबुक लॉगइन सक्षम करें
+fb_app_id: फेसबुक अनुप्रयोग आईडी
+fb_secret_key: फेसबुक गुप्त कुंजी
+comment_settings: टिप्पणी सेटिंग्स
+enable_comment: टिप्पणी सक्षम करें
+disqus_shortname: Disqus Shortname
+active_widget_position: सक्रिय विजेट स्थिति
+upload_and_install: अपलोड करें और स्थापित करें
+install_updates: अद्यतन / विषयों स्थापित / plugins / विजेट्स
+click_and_edit: एक टेम्पलेट फ़ाइल का चयन करें और संपादित करें क्लिक
+google_analytics_settings: गूगल AnalyticsSettings
+default_seo_settings: चूक एसईओ सेटिंग्स
+find_us_on_facebook: फेसबुक पर हमें पता लगाएं
+type_anything: कुछ भी टाइप
+login_failed : लॉगिन विफल
+debug_email : डीबग ईमेल
+email_to : ईमेल करने के लिए
+ive_read_the: मैंने पढ़ा है
+title_city_category: शीर्षक, शहर या श्रेणी
+css_compression: सभी सीएसएस फ़ाइलें मर्ज
+all_sub_categories : सभी उप श्रेणियों
+no_sub_categories : कोई उप श्रेणियाँ
+email_cleared: ईमेल को मंजूरी दे दी
+hide_users_profile_phone: छुपाएं उपयोगकर्ता प्रोफ़ाइल फोन
+features: विशेषताएं
+content: सामग्री
+news_urls: नए स्रोत
+all_sources: सभी स्रोतों
+addsource: स्रोत जोड़ें
+new_source: नए स्रोत
+seo_keywords : एसईओ कीवर्ड
+seo_description : एसईओ विवरण
+all_news : सभी समाचार
+new_news : न्यू समाचार
+create_news : समाचार बनाएं
+edit_news : संपादित समाचार
+no_source : कोई स्रोत
+no_category : नहीं श्रेणी
+sub_category : उप श्रेणी
+category_2: S.Category
+news_updated: समाचार अद्यतन
+news_added: समाचार बनाया
+source: स्रोत
+link: लिंक
+media: मीडिया
+put_as_comma_separated: अल्पविराम के रूप में डाल (,) प्रारूप अलग
+site_settings: साइट सेटिंग्स
+clear_old_news: साफ पुरानी खबर
+news_before: पहले समाचार
+leave_empty_if_doesnot_matter: कोई फर्क नहीं पड़ता है, तो खाली छोड़ दो
+view_less_than: देखें, कम से कम
+without_image: छवि के बिना
+you_cant_undo_this_action: आप इस क्रिया को पूर्ववत नहीं कर सकते
+news_deleted: समाचार को मंजूरी दे दी
+general: जनरल
+moderator: संचालक
+genaral_user_can_create_post: उपयोगकर्ता खबर बना सकते हैं
+moderator_can_create_post: खबर बना सकते संचालक
+auto_crawl: ऑटो क्रॉल
+lazy_load_images: आलसी लोड हो रहा छवियों
+generate_widgets: विजेट्स उत्पन्न
+sidebar: साइडबार
+pagebody: Pagebody
+widget_generated: विजेट उत्पन्न
+widget_generation_failed: विजेट पीढ़ी में विफल रहा है
+latest_news: नवीनतम समाचार
+news_by:
+top_news: शीर्ष समाचार
+source_added: स्रोत जोड़ा गया
+no_news_found: नहीं खबर
+clear: साफ
+view_news_in: में देखें खबर
+seen_by: देखें
+read_this_on: पर इस पढ़ें
+news_source: एक स्रोत से समाचार
+news_category: एक वर्ग से समाचार
+source_name: नाम
+parent_category: जनक श्रेणी
+news_grabbed: समाचार सफलतापूर्वक पकड़ा
+rss_url: फ़ीड URL
+auto_grabbing: ऑटो हथियाने
+start_on: पर शुरू
+grab_duration: पकड़ो अवधि
+item_per_grab: हड़पने के प्रति मद
+edit_source: संपादित स्रोत
+source_updated: स्रोत अद्यतन
+news_featured: समाचार चित्रित किया
+news_un_featured: समाचार संयुक्त राष्ट्र के विशेष रुप से प्रदर्शित
+no_news: नहीं खबर
+featured_news: समाचार रुप
+widget_updated: विजेट अद्यतन
+delete_selected: चयनित हटाएँ
+popular_news: लोकप्रिय समाचार
+search_result_for: खोज परिणाम
+source_type: स्रोत प्रकार
+make_featured: विशेष रुप से बनाओ
+enable_cookie_policy_popup: कुकी नीति पॉपअप
+cookie_policy_page_url: कुकी नीति पृष्ठ URL
+cookie_policy: कुकी नीति
+cookie_policy_alert: इस साइट कुकीज़ का उपयोग करता है। आप कुकीज़ के हमारे इस्तेमाल के लिए सहमत इस साइट का उपयोग करने के लिए जारी रखकर।
+read_more:
+i_agree: मैं सहमत
+confirmation_email : पुष्टिकरण ईमेल
+recovery_email : रिकवरी ईमेल
+payment_confirmation_email : भुगतान की पुष्टि ईमेल
+tracking_code : ट्रैकिंग कोड
+news: समाचार
+source_type: स्रोत प्रकार
+auto_translate: ऑटो अनुवाद
+auto_translator: ऑटो अनुवादक
+from_lang: भाषा से
+edit_email_template: संपादित ईमेल Tmpl
+web_email_settings : वेब ईमेल सेटिंग्स
+on: पर पोस्ट
+news_sources: समाचार स्रोत
+save_images_locally: स्थानीय स्तर पर छवियों को बचाओ
+media_url_update: अद्यतन पुराने मीडिया यूआरएल
+old_base_url: पुराने आधार यूआरएल
+new_base_url: नया आधार यूआरएल
+grab_full_news: पकड़ो पूरी खबर
+disable_main_site_link: मुख्य साइट लिंक अक्षम

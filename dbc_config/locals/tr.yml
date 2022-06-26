@@ -1,0 +1,383 @@
+---
+sign_in: Sign In
+sign_up: Kayıt Ol
+agent_panel: Ajan Paneli
+admin_panel: Yönetici Paneli
+country: Ülke
+city: Şehir
+register: Kayıt Ol
+details: Detaylar
+view_all: Tüm
+order_by: Sıralama
+none: Yok
+terms_and_conditions: Terimler ve Durumu
+reg_success_message: Hesabınız kaydı başarılı olduğunu. Bir e-posta e-posta gönderildi. Senin account.Thanks etkinleştirmek için bu e-posta takip edin
+recover: Kurtar
+oops: Üzgünüz, sayfa bulunamadı
+address: Adres
+all: Hepsi
+contact_us: Bize
+confirmation: Onay
+tags: Etiketler
+login: Üye Girişi
+post_not_found: Mesaj Bulunamadı
+view_more: Daha Fazlasını
+image: Görüntü
+create: Create
+send: Gönder
+contact_subject: E-posta İletişim
+password: Şifre
+confirm_password: Parolayı Onayla
+all_posts: Tüm mesajlar
+no_posts: Yok Mesaj
+title: Başlık
+description: Açıklama
+status: Durum
+actions: Eylemler
+type: Tür
+type_something: bir şey yazın
+content: İçerik
+category: Kategori
+all_categories: Tüm Kategoriler
+edit_category: Düzenleme kategorisi
+new_category: Yeni kategori
+edit: Düzenleme
+delete: Sil
+name: Adı
+save: Save
+no_parent: Hayır ebeveyn
+add_another: Başka ekle
+export_to_file: İhracat dosyaya
+options: Seçenekler
+all_pages: Tüm sayfalar
+no_pages: sayfa yok
+manage_menu: Menüden Yönet
+menu_title: Menü Başlığı
+menu_alias: Menü takma
+show_in_menu: Menüde Göster
+page_layout: Sayfa düzeni
+content_from: içeriği
+url: Url
+seo_options: SEO seçenekleri
+meta_description: Meta açıklama
+key_words:
+crawl_after: sonra Crawl (gün)
+all_plugins: Tüm eklentileri
+no_plugins: Hayır eklentileri
+name_and_version: Adı ve sürümü
+change_password: Şifre değiştir
+current_password: Cari şifre
+new_password: Yeni şifre
+retype_password: Parolayı yeniden yazın
+password_reset_info_msg: Önce Yeni Şifreyi ayarlayın Lütfen
+edit_profile: Profili düzenle
+profile_picture: Profil Resmi
+username: Adı
+email: E-Posta
+first_name: Ad
+last_name: Soyad
+gender: Cinsiyet
+phone: Telefon
+company_name: Firma Adı
+about_me: Hakkımda
+facebook_account: Facebook hesabı
+twitter_account: Twitter hesabı
+linkedin_account: Linkedin hesabı
+gp_account: Google+ hesabı
+account_msg: Please enter the link, without http: //
+contact_email: E-posta İletişim
+webadmin_name: Webadmin Adı
+webadmin_email: Webadmin E-
+update: Güncelleme
+upload: Yükle
+site_settings: Site Ayarları
+site_title: Site Başlığı
+footer_text: Altbilgi Metin
+site_logo: Sitede Logosu
+site_language: Site Dilini
+site_text_direction: Sitede Metin Yönü
+per_page: sayfalandırmayı Sayfa Başına
+default_page_layout: Varsayılan Sayfa Düzeni
+smtp_email_settings: SMTP E-posta Ayarları
+smtp_email: SMTP E-posta
+smtp_host: SMTP Sunucu
+smtp_port: SMTP Bağlantı Noktası
+smtp_timeout: SMTP Zaman Aşımı
+smtp_user: SMTP Kullanıcı
+smtp_password: SMTP Şifre
+generate_site_map: Site Haritası Oluşturmak
+sitemap_info_msg: NB: Eğer sitemap xml dahil olmak istediğiniz seçiniz. Sonra başarılı nesil sitemap.xml KÖK dizini altına kaydedilir. Siz de kendi URL'lerin dahil olmak üzere bu dosyayı düzenleyebilirsiniz.
+pages: Sayfalar
+view_xml: Görünüm XML
+create_xml: XML oluşturma
+manage_backups: Yönet Yedekler
+create_sql_backup: SQL Create Backup
+create_image_backup: Görüntü Create Backup
+restore: Restore
+download: Download
+dashboard: Dashboard
+overview_stats_more: Genel Bakış, İstatistikler ve daha fazlası
+visit_site: Siteyi ziyaret edin
+logout: Çık
+themes: Temalar
+locations: Mekanlar
+profile: Profil
+agents: Ajanlar
+widgets: Widget'lar
+all_widgets: Tüm Widget'lar
+widget_positions: Widget Pozisyonlar
+new_post: Yeni Mesaj
+pages_and_menu: Sayfalar ve Menü
+new_page: Yeni Sayfa
+menu: Menü
+system: Sistem
+edit_email_text: Düzenleme Email Metin
+admin_settings: Web Yönetici Ayarları
+sitemap: Site Haritası
+activate: etkinleştirin
+active_theme: Aktif Tema
+available_themes: Mevcut Temalar
+all_users: Tüm Kullanıcılar
+create_user: Kullanıcı Oluştur
+export_user_email: İhracat Kullanıcı e-postalar (.csv)
+profile_info: Bilgi Profil
+manage_menu: Menu yönetin
+edit_page: Sayfa Düzenle
+create_widget: Widget oluştur
+widget_name: Widget Adı
+activate_deactivate: etkinleştirin / De-Activate
+show: Göster
+available_widgets: Mevcut Widget'lar
+active_widgets: Aktif Radyo
+delete_warning: Emin silerim istiyor musunuz.
+yes: evet'
+no: hayır'
+fa_icon: FA simgesi sınıfı
+post_ad: İlan Ver
+post_ad_subtitle: Reklam detay koy
+signin: Giriş Yap
+signup: Kayıt
+signup_title: Hesabınızı oluşturun
+not_found: Bulunamadı
+purpose: Amaç
+select_category: Kategori Seçiniz
+address: Adres
+upload_later_msg: Sen sonrası oluşturulduktan sonra galeri fotoğraf ve video url yüklemek mümkün olacak
+user_panel: Kullanıcı paneli
+logout: Çık
+all_posts: Tüm mesajlar
+put_as_comma_seperated: (,) virgül ayrılmalıdır olarak koymak
+added: Eklendi
+location: Location
+views: Görüntüleme
+add_new: Yeni ekle
+search: Arama
+contact_mode: İletişim Modu
+reset: Reset
+contact: İletişim
+type_your_message: Mesajınızı buraya yazın ..
+mail_sent: Posta Gönderildi
+home: Ev
+list_your_ad: Reklamınızı Liste
+print: Baskı
+remember_me: Beni Hatırla
+forgot_password: Şifremi Unuttum
+login_to_your_account: Hesabınıza giriş
+register_your_account: Hesabınızı Ol
+male: Erkek
+female: Kadın
+state: Devlet
+users: Kullanıcılar
+ads: Reklamlar
+categories: Kategoriler
+top_posts: En Mesajlar
+default_site_settings: Varsayılan Site Ayarları
+webadmin_settings: Webadmin Ayarları
+banner_settings: Banner Ayarları
+logged_in_as: olarak Girildi
+password_change_success: Şifre başarıyla değiştirildi
+email_sent_inbox: Bir e-posta inbox.Check bu e-posta gönderilir.
+password_recovery_link_invalid: Password Recovery Bağlantı geçerli değil midir
+user_updated: Kullanıcı Güncellendi
+user_deleted: Kullanıcı Silindi
+data_inserted: Veriler Eklendi
+data_updated: Veriler Güncellendi
+settings_updated: Ayarlar Güncellendi
+page_updated: Sayfa Güncellendi
+page_created: Sayfa Oluşturuldu
+page_deleted: Sayfa silinmiş
+menu_updated: Menu Güncellendi
+site_map_generation_success: Site haritası başarıyla üretti.
+select_option: on seçmek veya daha fazla seçenekleri seçin ediniz.
+image_backup_created: Görüntü Yedekleme Oluşturuldu
+language_translated: Dil Çeviren
+backup_deleted: Yedekleme Silinmiş
+database_restored: Veritabanı Restorasyona
+theme_activated: Tema Aktif
+user_created: Kullanıcı Oluşturuldu
+widget_position_updated: Widget Böl Güncellendi
+widget_created: Widget düzenlendi
+settings_updated: Ayarlar Güncellendi
+widget_data_updated: Widget Veri Güncelleme
+unable_to_write_widget: Widget yazılamıyor
+admin_change_pass_help: değişiklik yok gerekirse boş bırakın
+login_with_google: Google ile oturum
+login_with_facebook: Facebook ile giriş
+register_for_new_account : Yeni hesap için üye ol
+site_map : Site Haritası
+show_site_map : Show site haritası
+about : Hakkında
+see_full_documentation: Tam belgelere bakın
+edit_profile: Profili düzenle
+admin: Yönetici
+re_password: Parolayı yeniden yazın
+explain_widget_position: Widget pozisyonları açıklar
+new_ad: Yeni Reklam
+select_one: Birini Seçiniz
+username_or_email: Kullanıcı adı veya e-posta
+post_detail: Mesaj detay
+edit_user: Düzen kullanıcı
+the_field_is_required:% s alanı gerekiyor.
+valid_email:% s alanı geçerli bir e-posta adresi içermelidir.
+min_length:% s alanına uzunluğu en az% s karakter olmalıdır.
+numeric:% s sadece sayı içermelidir.
+matches:% s alan% s alanı eşleşmiyor.
+greater_than:% s alan% s daha büyük bir sayı içermelidir.
+must_accept_terms: Siz şartlarını ve durumunu kabul etmelisiniz
+dont_have_permission: Bu sayfaya erişmek için yetkiniz yok
+email_allready_in_use: Zaten kullanımda e-posta
+username_allready_in_use: adı allready kullanımda
+current_password_not_matched: Mevcut şifre yapmadım \ 't maç
+email_not_matched: eşleşmedi Email
+account_not_confirmed: doğrulanmadı Hesap
+unique_alias:% s alan benzersiz olması gerekir
+smtp_email_settings: SMTP E-posta Ayarları
+error_occured: Hata oluştu. Aşağıdaki alanları kontrol edin
+user_profile: Kullanıcı profili '
+user_email: Kullanıcı e-posta
+target_lang_name: Hedef dil
+enable_signup: kaydolması Enable
+facebook_app_settings: Facebook uygulaması ayarları
+enable_facebook_login: facebook login Enable
+fb_app_id: Facebook uygulaması kimliği
+fb_secret_key: Facebook gizli anahtar
+comment_settings: Yorum ayarları
+enable_comment: Yorum Enable
+disqus_shortname: Disqus shortname
+active_widget_position: Aktif Widget pozisyonu
+upload_and_install: Yükleme ve install
+install_updates: Güncelleştirmeler / Temalar Yükle / Eklentiler / Widget'lar
+click_and_edit: Bir şablon dosyasını seçin ve düzenle tıklayın
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: Varsayılan ayarları SEO
+find_us_on_facebook: Facebook'ta bizi bulun
+type_anything: Anything yazın
+login_failed : Giriş başarısız
+debug_email : Debug e-posta
+email_to : e-posta için
+ive_read_the: okudum
+title_city_category: Başlık, Şehir veya Kategori
+css_compression: Tüm css dosyaları birleştirme
+all_sub_categories : Tüm Alt Kategoriler
+no_sub_categories : Hayır Alt Kategoriler
+email_cleared: E-Posta temizlenir
+hide_users_profile_phone: Hide kullanıcılar profil telefon
+features: Özellikler
+content: İçerik
+news_urls: New kaynağı
+all_sources: Tüm kaynaklar
+addsource: kaynak ekle
+new_source: New kaynağı
+seo_keywords : Seo Anahtar Kelimeler
+seo_description : Seo Açıklama
+all_news : Tüm Haberler
+new_news : Yeni Haberler
+create_news : Haberler oluştur
+edit_news : Düzen Haberler
+no_source : Hayır Kaynak
+no_category : Hayır Kategori
+sub_category : Alt Kategori
+category_2: S.Category
+news_updated: Haber güncellendi
+news_added: Haber yarattı
+source: Kaynak
+link: Bağlantı
+media: Medya
+put_as_comma_separated: virgül olarak koyun (,) ayrılmış biçimi
+site_settings: Sitede ayarları
+clear_old_news: Berrak eski bir haber
+news_before: önce Haber
+leave_empty_if_doesnot_matter: farketmez boş bırakın
+view_less_than: Görünüm az
+without_image: Görüntü olmadan
+you_cant_undo_this_action: Bu eylemi geri alamazsınız
+news_deleted: Haber temizledi
+general: Genel
+moderator: Moderatör
+genaral_user_can_create_post: Kullanıcı haberleri oluşturabilirsiniz
+moderator_can_create_post: haber oluşturabilirsiniz Moderatör
+auto_crawl: Otomatik tarama
+lazy_load_images: Tembel yükleme görüntüleri
+generate_widgets: widget oluşturun
+sidebar: Kenar Çubuğu
+pagebody: Pagebody
+widget_generated: Widget oluşturulan
+widget_generation_failed: Widget nesil başarısız
+latest_news: Son Haberler
+news_by:
+top_news: En Çok Okunan Haberler
+source_added: Kaynak Eklendi
+no_news_found: Hiçbir haber
+clear: Temizle
+view_news_in: Görünüm haberleri
+seen_by: Görünüm
+read_this_on: Bu Oku
+news_source: bir kaynak Haberler
+news_category: Bir kategori Haberler
+source_name: İsim
+parent_category: Üst Kategori
+news_grabbed: Haber başarıyla yakaladı
+rss_url: Yem url
+auto_grabbing: Otomatik kapma
+start_on: Başlat
+grab_duration: Kepçe süresi
+item_per_grab: kapmak başına Öğe
+edit_source: Düzenleme kaynağı
+source_updated: güncellendi
+news_featured: Haber özellikli
+news_un_featured: Haber un özellikli
+no_news: Hiçbir haber
+featured_news: Haber Featured
+widget_updated: Widget güncellendi
+delete_selected: Seçilen Sil
+popular_news: Popüler Haberler
+search_result_for: Arama Sonucu
+source_type: Kaynak tipi
+make_featured: özellikli olun
+enable_cookie_policy_popup: Çerez Politikası Popup
+cookie_policy_page_url: Çerez politikası sayfası url
+cookie_policy: Çerez politikası
+cookie_policy_alert: Bu site çerezleri kullanmaktadır. Eğer çerez kullanmamızı kabul Bu siteyi kullanmaya devam ederek.
+read_more: Devamını oku
+i_agree: ben katılıyorum
+confirmation_email : Onay e-posta
+recovery_email : Kurtarma e-posta
+payment_confirmation_email : Ödeme onay e
+tracking_code : İzleme kodu
+news: Haberler
+source_type: Kaynak tipi
+auto_translate: Otomatik Çeviri
+auto_translator: Otomatik Çeviri
+from_lang: dilin itibaren
+edit_email_template: Düzen-posta tmpl
+web_email_settings : Web e-posta ayarları
+on: Posted On
+news_sources: Haber Kaynakları
+save_images_locally: Yerel görüntüleri kaydetme
+media_url_update: Güncelleme Eski medya url
+old_base_url: Eski baz url
+new_base_url: Yeni taban url
+grab_full_news: Kepçe tam haber
+disable_main_site_link: Ana site bağlantısını devre dışı bırakma
+okul_sube_secenekleri_info_bar:OKUL ŞUBE SEÇENEKLERİ
+okul_sube_secenekleri_info_bar_aciklama:Okul ve şube seçeneklerini oluşturabilir, düzenleyebilir veya silebilirsiniz.

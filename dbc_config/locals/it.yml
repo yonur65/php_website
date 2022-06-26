@@ -1,0 +1,381 @@
+---
+sign_in: Accedi
+sign_up: Registrati
+agent_panel: Agente Panel
+admin_panel: pannello di amministrazione
+country: Paese
+city: Città
+register: Registrati
+details: Dettagli
+view_all: Visualizza tutti
+order_by: Ordinato per
+none: Nessuno
+terms_and_conditions: Termini e condizioni
+reg_success_message: La tua registrazione account è successo. Una e-mail è stata inviata al tuo indirizzo email. Seguire che la posta elettronica per attivare le account.Thanks
+recover: Ripristina
+oops: Oops, pagina non trovata
+address: Indirizzo
+all: ALL
+contact_us: Contattaci
+confirmation: Conferma
+tags: Tag
+login: Login
+post_not_found: Post non trovato
+view_more: Visualizza altro
+image: Immagine
+create: Creare
+send: Invia
+contact_subject: Contatto email
+password: la password
+confirm_password: Conferma password
+all_posts: Tutti i post
+no_posts: No Messaggi
+title: Titolo
+description: Descrizione
+status: Stato
+actions: Azioni
+type: Tipo
+type_something: digitare qualcosa
+content: Contenuto
+category: Categoria
+all_categories: Tutte le categorie
+edit_category: Modifica categoria
+new_category: Nuova categoria
+edit: Modifica
+delete: Elimina
+name: Nome
+save: Salva
+no_parent: Nessun genitore
+add_another: Aggiungi un altro
+export_to_file: Esportazione su file
+options: Opzioni
+all_pages: Tutto il portale
+no_pages: No pagine
+manage_menu: menu Gestisci
+menu_title: Menu Titolo
+menu_alias: alias Menu
+show_in_menu: Mostra nel menù
+page_layout: Impaginazione
+content_from: Contenuto da
+url: URL
+seo_options: Opzioni SEO
+meta_description: descrizione Meta
+key_words: Parole chiave
+crawl_after: Passo dopo (giorni)
+all_plugins: tutti i plugin
+no_plugins: Nessun plugin
+name_and_version: Nome e versione
+change_password: Cambiare la password
+current_password: Password corrente
+new_password: Nuova password
+retype_password: Ripeti password
+password_reset_info_msg: Si prega di Primo Imposta la tua nuova password
+edit_profile: Modifica Profilo
+profile_picture: Profile Picture
+username: nome utente
+email: E-mail
+first_name: Nome
+last_name: Cognome
+gender: Genere
+phone: Telefono
+company_name: Nome della società
+about_me: Su di me
+facebook_account: account Facebook
+twitter_account: account Twitter
+linkedin_account: conto Linkedin
+gp_account: account Google+
+account_msg: Please enter the link, without http: //
+contact_email: Contatto email
+webadmin_name: Webadmin Nome
+webadmin_email: Webadmin Email
+update: Aggiornamento
+upload: Carica
+site_settings: Impostazioni sito
+site_title: Site Title
+footer_text: Footer Testo
+site_logo: Site Logo
+site_language: la lingua del sito
+site_text_direction: sito Testo Direzione
+per_page: Impaginazione Per Pagina
+default_page_layout: Layout di pagina di default
+smtp_email_settings: Impostazioni e-mail SMTP
+smtp_email: e-mail SMTP
+smtp_host: Host SMTP
+smtp_port: Porta SMTP
+smtp_timeout: Timeout SMTP
+smtp_user: SMTP User
+smtp_password: Password SMTP
+generate_site_map: Generare Mappa del sito
+sitemap_info_msg: NB: Si prega di selezionare quale si desidera essere incluso sitemap xml. Dopo sitemap.xml successo generazione viene salvato nella directory principale. È inoltre possibile modificare il file per includere i propri URL.
+pages: Pagine
+view_xml: Visualizza XML
+create_xml: Creare XML
+manage_backups: gestisci backup
+create_sql_backup: Creare SQL Backup
+create_image_backup: Crea immagine di backup
+restore: Ripristino
+download: Scarica
+dashboard: Dashboard
+overview_stats_more: Panoramica, Statistiche e Altro
+visit_site: Visita il sito
+logout: Logout
+themes: Temi
+locations: Sedi
+profile:
+agents: Agenti
+widgets: Widgets
+all_widgets: tutti i widget
+widget_positions: Posizioni Widget
+new_post: Nuovo contributo
+pages_and_menu: Pagine & Menu
+new_page: Nuova pagina
+menu: Menu
+system: Sistema
+edit_email_text: Modifica e-mail testo
+admin_settings: Impostazioni amministratore Web
+sitemap: Mappa del sito
+activate: Attiva
+active_theme: Tema Attivo
+available_themes: Temi disponibili
+all_users: Tutti gli utenti
+create_user: Crea utente
+export_user_email: Export-mail degli utenti (.csv)
+profile_info: Profilo Informazioni
+manage_menu: Gestire Menu
+edit_page: Modifica pagina
+create_widget: Creare Widget
+widget_name: Nome Widget
+activate_deactivate: Attivazione / disattivazione
+show: Mostra
+available_widgets: Disponibile Widgets
+active_widgets: Widgets attivi
+delete_warning: Sei sicuro di voler fare eliminare.
+yes: si'
+no: no'
+fa_icon: FA classe icona
+post_ad: Pubblicare
+post_ad_subtitle: Metti il ​​tuo particolare annuncio
+signin: Signin
+signup: Iscrizione
+signup_title: Crea il tuo account
+not_found: Non trovato
+purpose: Finalità
+select_category: Seleziona una categoria
+address: Indirizzo
+upload_later_msg: Sarete in grado di caricare le gallery di foto e video url dopo la creazione postale
+user_panel: Pannello utente
+logout: Logout
+all_posts: Tutti i post
+put_as_comma_seperated: messo come (,) virgola sperated
+added: Aggiunto
+location: Posizione
+views: Vista
+add_new: Aggiungi nuovo
+search: Ricerca
+contact_mode: Modalità di contatto
+reset: reset
+contact: Contatto
+type_your_message: Scrivi qui il tuo messaggio ..
+mail_sent: Posta inviata
+home: Home
+list_your_ad: Ad tua Lista
+print: Stampa
+remember_me: Remember Me
+forgot_password: Hai dimenticato la password
+login_to_your_account: Accedi al tuo account
+register_your_account: Registra il tuo account
+male: Maschio
+female: Donna
+state: Stato
+users: Utenti
+ads: Annunci
+categories: Categorie
+top_posts: Top Messaggi
+default_site_settings: Impostazioni sito predefinite
+webadmin_settings: Impostazioni webadmin
+banner_settings: Impostazioni Banner
+logged_in_as: Collegato come
+password_change_success: Password cambiata con successo
+email_sent_inbox: Una email è inviare al tuo inbox.Check che la posta elettronica.
+password_recovery_link_invalid: Password Recovery link non valido
+user_updated: User Aggiornato
+user_deleted: Utente eliminato
+data_inserted: dati inseriti
+data_updated: dati aggiornati
+settings_updated: Impostazioni Aggiornato
+page_updated: Pagina Aggiornato
+page_created: Pagina Creato
+page_deleted: Pagina eliminata
+menu_updated: Menu Aggiornato
+site_map_generation_success: Mappa del Sito generato con successo.
+select_option: Si prega di selezionare su o più selezionare le opzioni.
+image_backup_created: immagine di backup creati
+language_translated: Lingua Tradotto
+backup_deleted: Backup eliminati
+database_restored: database ripristinato
+theme_activated: Tema Attivato
+user_created: User Created
+widget_position_updated: Widget Postion Aggiornato
+widget_created: Widget Creato
+settings_updated: Impostazioni Aggiornato
+widget_data_updated: Widget dati aggiornati
+unable_to_write_widget: Impossibile scrivere widget di
+admin_change_pass_help: lasciare in bianco se nessun cambiamento necessario
+login_with_google: Login con Google
+login_with_facebook: Login with Facebook
+register_for_new_account : Registrati nuovo account
+site_map : Mappa del sito
+show_site_map : Mappa del sito
+about : A proposito di
+see_full_documentation: Vedere la documentazione completa
+edit_profile: Modifica Profilo
+admin: Admin
+re_password: Ripeti password
+explain_widget_position: Spiegare le posizioni di widget
+new_ad: Nuovo Annuncio
+select_one: Seleziona una voce
+username_or_email: Nome utente o email
+post_detail: Posta dettaglio
+edit_user: Modifica utente
+the_field_is_required: è obbligatorio Il campo% s.
+valid_email: Il campo% s deve contenere un indirizzo email valido.
+min_length: Il campo% s deve essere almeno% s caratteri di lunghezza.
+numeric: Il campo% s deve contenere solo numeri.
+matches: Il campo% s non corrisponde il campo% s.
+greater_than: Il campo% s deve contenere un numero maggiore di% s.
+must_accept_terms: È necessario accettare i termini e le condizioni
+dont_have_permission: Non si dispone dell'autorizzazione per accedere a questa pagina
+email_allready_in_use: Email già in uso
+username_allready_in_use: Nome utente giá in uso
+current_password_not_matched: Password corrente didn \ 't partita
+email_not_matched: Non Email abbinato
+account_not_confirmed: Conto non confermata
+unique_alias: Il campo% s deve essere unico
+smtp_email_settings: Impostazioni e-mail SMTP
+error_occured: è verificato un errore. Si prega di controllare i campi sottostanti
+user_profile: Profilo utente '
+user_email: e-mail Utente
+target_lang_name: Lingua di destinazione
+enable_signup: Attiva iscrizione
+facebook_app_settings: Facebook impostazioni di app
+enable_facebook_login: Attiva Facebook Login
+fb_app_id: Facebook app id
+fb_secret_key: chiave segreta Facebook
+comment_settings: Impostazioni commenti
+enable_comment: Attiva commento
+disqus_shortname: Disqus Shortname
+active_widget_position: Posizione widget di attivo
+upload_and_install: caricare e installare
+install_updates: Installare gli aggiornamenti / Temi / plugins / Widgets
+click_and_edit: selezionare un file di modello e fare clic su Modifica
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: Impostazioni predefinite SEO
+find_us_on_facebook: Vieni a trovarci su Facebook
+type_anything: Tipo Tutto
+login_failed : Accesso non riuscito
+debug_email : E-mail Debug
+email_to : per e-mail
+ive_read_the: Ho letto il
+title_city_category: Titolo, Città o Categoria
+css_compression: Unire tutti i file css
+all_sub_categories : Tutte le categorie Sub
+no_sub_categories : No Categorie Sub
+email_cleared: Email cancellata
+hide_users_profile_phone: Nascondi il profilo degli utenti del telefono
+features: Caratteristiche
+content: Contenuto
+news_urls: Nuova fonte
+all_sources: Tutte le fonti
+addsource: Aggiungi fonte
+new_source: Nuova fonte
+seo_keywords : Seo Parole
+seo_description : Seo Descrizione
+all_news : Tutte le News
+new_news : New Notizie
+create_news : Crea Notizie
+edit_news : Edit News
+no_source : No Source
+no_category : No Categoria
+sub_category : Categoria
+category_2: S.Category
+news_updated: Notizie aggiornate
+news_added: Notizie creato
+source:
+link: link
+media: media
+put_as_comma_separated: Put come virgola (,) Formato separati
+site_settings: Impostazioni sito
+clear_old_news: Cancella vecchie notizie
+news_before: Notizie prima
+leave_empty_if_doesnot_matter: lasciare vuoto se non importa
+view_less_than: Visualizza meno
+without_image: Senza immagine
+you_cant_undo_this_action: non è possibile annullare questa azione
+news_deleted: Notizie cancellata
+general: Generale
+moderator: Moderatore
+genaral_user_can_create_post: L'utente può creare notizie
+moderator_can_create_post: Moderatore può creare notizie
+auto_crawl: crawl Auto
+lazy_load_images: immagini lazy loading
+generate_widgets: Genera i widget
+sidebar: Sidebar
+pagebody: Pagebody
+widget_generated: Widget generata
+widget_generation_failed: generazione Widget fallita
+latest_news: Ultime Notizie
+news_by: By
+top_news: Top News
+source_added: Fonte Aggiunto
+no_news_found: Nessuna notizia
+clear: Cancella
+view_news_in: Visualizza le notizie in
+seen_by: Vista
+read_this_on: Leggere questo su
+news_source: Notizie da una fonte
+news_category: Notizie da una categoria
+source_name: Nome
+parent_category: Parent Categoria
+news_grabbed: Notizie afferrato con successo
+rss_url: URL feed
+auto_grabbing: accaparramento Auto
+start_on: Start su
+grab_duration: Durata Grab
+item_per_grab: Articolo per afferrare
+edit_source: Modifica fonte
+source_updated: Fonte aggiornato
+news_featured: Notizie beta
+news_un_featured: Notizie in evidenza un
+no_news: Nessuna notizia
+featured_news: In primo piano Notizie
+widget_updated: Widget aggiornato
+delete_selected: Elimina selezionati
+popular_news: Popolare Notizie
+search_result_for: Risultati di ricerca
+source_type: Tipo di sorgente
+make_featured: Fare in evidenza
+enable_cookie_policy_popup: Cookie Popup
+cookie_policy_page_url: Biscotto pagina politica url
+cookie_policy: Politica Cookie
+cookie_policy_alert: Questo sito utilizza cookies. Continuando ad utilizzare questo sito l'utente accetta di utilizzare i cookie.
+read_more: Leggi tutto
+i_agree: Sono d'accordo
+confirmation_email : e-mail di conferma
+recovery_email : Email Recovery
+payment_confirmation_email : pagamento email di conferma
+tracking_code : codice di monitoraggio
+news: Notizie
+source_type: Tipo di sorgente
+auto_translate: Auto Tradurre
+auto_translator: Auto Translator
+from_lang: Dalla lingua
+edit_email_template: Modifica email tmpl
+web_email_settings : impostazioni e-mail Web
+on: Pubblicato il
+news_sources: Notizie Fonti
+save_images_locally: Salva localmente immagini
+media_url_update: Aggiornamento vecchi media url
+old_base_url: base vecchio URL
+new_base_url: Nuovo URL di base
+grab_full_news: Grab notizia completa
+disable_main_site_link: Disabilitare principale collegamento al sito

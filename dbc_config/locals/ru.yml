@@ -1,0 +1,381 @@
+---
+sign_in: Вход
+sign_up: Зарегистрироваться
+agent_panel: Панель Агент
+admin_panel: Панель администратора
+country: Страна
+city: Город
+register: Регистрация
+details: Детали
+view_all: Показать все
+order_by: Сортировать по
+none: Ни
+terms_and_conditions: Условия и условия
+reg_success_message: Ваш аккаунт Регистрация успешна. Письмо было отправлено по электронной почте. Пожалуйста, следуйте это письмо, чтобы активировать account.Thanks
+recover: Восстановление
+oops: Ой, страница не найдена
+address: Адрес
+all: Все
+contact_us: Обратная связь
+confirmation: подтверждения
+tags: Теги
+login: Войти
+post_not_found: Сообщение не найден
+view_more: Посмотреть Дополнительная
+image: Изображение
+create: создание
+send: Отправить
+contact_subject: Контактный Email
+password:
+confirm_password: Подтвердите пароль
+all_posts: Все сообщения
+no_posts: Нет сообщений
+title: Название
+description: Описание
+status:
+actions: Действия
+type: Тип
+type_something: Введите что-то
+content: Содержание
+category: Статьи
+all_categories: Все категории
+edit_category: Изменить категорию
+new_category: Новая категория
+edit: Редактировать
+delete: Удалить
+name: Название
+save: Сохранить
+no_parent: Нет родитель
+add_another: Добавить еще
+export_to_file: Экспорт в файл
+options: Настройки
+all_pages: Все страницы
+no_pages: Нет страницы
+manage_menu: Управление меню
+menu_title: Название меню
+menu_alias: меню псевдоним
+show_in_menu: Показать в меню
+page_layout: Макет страницы
+content_from: Содержание из
+url: URL
+seo_options: варианты SEO
+meta_description: Мета описание
+key_words: Ключевые слова
+crawl_after: погреб через (дней)
+all_plugins: Все плагины
+no_plugins: Нет плагины
+name_and_version: Имя и версия
+change_password: Изменить пароль
+current_password: Текущий пароль
+new_password: Новый пароль
+retype_password: Повторите пароль
+password_reset_info_msg: Пожалуйста, первый набор новый пароль
+edit_profile: Редактировать профиль
+profile_picture: Профиль Фото
+username: Имя пользователя
+email: E-mail
+first_name: Имя
+last_name: Фамилия
+gender: Мужской
+phone:Телефон
+company_name: Название компании
+about_me: Обо мне
+facebook_account: счет Facebook
+twitter_account: Твиттере
+linkedin_account: Linkedin счет
+gp_account: Google+ счет
+account_msg: Please enter the link, without http: //
+contact_email: Контактный Email
+webadmin_name: Webadmin Имя
+webadmin_email: E-mail Webadmin
+update: обновление
+upload: Загрузить
+site_settings: Настройки сайта
+site_title: Название сайта
+footer_text: Сноска
+site_logo: Сайт Логотип
+site_language: Язык сайта
+site_text_direction: Сайт Направление текста
+per_page: Разбивка На страницу
+default_page_layout: умолчанию Макет страницы
+smtp_email_settings: Настройки SMTP Email
+smtp_email: SMTP-E-Mail
+smtp_host: SMTP-хост
+smtp_port: SMTP Порт
+smtp_timeout: SMTP истекло
+smtp_user: SMTP-пользователя
+smtp_password: Пароль SMTP
+generate_site_map: Создание Карта сайта
+sitemap_info_msg: NB: Пожалуйста, выберите, который вы хотите быть включены в XML карта сайта. После успешного sitemap.xml поколение сохраняются в корневой каталог. Вы также можете редактировать этот файл для включения свои собственные URL.
+pages: Страницы
+view_xml: Посмотреть XML-
+create_xml: Создание XML
+manage_backups: Управление Резервные копии
+create_sql_backup: Создание SQL Резервное копирование
+create_image_backup: Создать резервную копию изображения
+restore: Восстановить
+download: Скачать
+dashboard: Приборная панель
+overview_stats_more: Обзор, Статистика Подробнее
+visit_site: Посетите сайт
+logout: Выход
+themes: Темы
+locations: Место
+profile:
+agents: Агенты
+widgets: Виджеты
+all_widgets: Все Информеры
+widget_positions: Виджет Позиции
+new_post: Новое сообщение
+pages_and_menu: Страницы & Меню
+new_page: Новая страница
+menu: Меню
+system: Система
+edit_email_text: Изменить E-mail Текст
+admin_settings: Настройки веб-администратора
+sitemap: Карта сайта
+activate: Активируйте
+active_theme: Активная тема
+available_themes: Доступные Темы
+all_users: Все пользователи
+create_user: Создать пользователя
+export_user_email: Письма Экспорт пользователей (CSV)
+profile_info: Профиль Информация
+manage_menu: Управление меню
+edit_page: Редактировать страницу
+create_widget: Создать виджет
+widget_name: Виджет Имя
+activate_deactivate: Активация / деактивировать
+show: Показать
+available_widgets: Доступен Виджеты
+active_widgets: Активные Виджеты
+delete_warning: Вы уверены, что хотите удалить этого.
+yes: да'
+no: нет'
+fa_icon: Ф. пиктограмма класса
+post_ad: Опубликовать
+post_ad_subtitle: Поместите объявление подробно
+signin: зарегистрировались
+signup: Регистрация
+signup_title: Создать аккаунт
+not_found: не найдены
+purpose: Цель
+select_category: Выбор категории
+address: Адрес
+upload_later_msg: Вы будете в состоянии загрузить галерея фотографий и видео URL после создания почтового
+user_panel: Панель пользователя
+logout: Выход
+all_posts: Все сообщения
+put_as_comma_seperated: положить в (,) Запятая sperated
+added: Добавлена
+location: Адрес
+views: Просмотров
+add_new: Добавить
+search: Поиск
+contact_mode: Связаться режим
+reset: сброс
+contact: Контакт
+type_your_message: Введите Ваше сообщение здесь ..
+mail_sent: почта, отправляемая
+home: Главная
+list_your_ad: Перечислите Your Ad
+print: Печать
+remember_me: Запомнить
+forgot_password: Забыли пароль
+login_to_your_account: Войдите в свой аккаунт
+register_your_account: зарегистрировать свой аккаунт
+male: Мужской
+female: Женщина
+state: Государственный
+users: Люди
+ads: Объявления
+categories: Категории
+top_posts: Топ Сообщений
+default_site_settings: По умолчанию Параметры сайта
+webadmin_settings: Настройки Веб Администрирования
+banner_settings: Настройки Баннер
+logged_in_as: Вы вошли как
+password_change_success: Пароль успешно изменен
+email_sent_inbox: электронную почту высылается на ваш inbox.Check этом письме.
+password_recovery_link_invalid: Password Recovery Ссылка не действительна
+user_updated: Пользователь Обновлено
+user_deleted: Пользователь удалён
+data_inserted: data_inserted
+data_updated: обновление
+settings_updated: Настройки Обновлено
+page_updated: Страница Обновлено
+page_created: Страница создания
+page_deleted: Страница Удалена
+menu_updated: Меню Обновлено
+site_map_generation_success: Карта сайта успешно создаваться.
+select_option: Пожалуйста, выберите или более выбора параметров.
+image_backup_created: Резервное копирование образа, созданного
+language_translated: Язык Перевод
+backup_deleted: Резервное копирование удаленных
+database_restored: базы данных, восстановленной
+theme_activated: Тема Активированный
+user_created: Пользователь Создано
+widget_position_updated: Виджет ПОлОжЕНИЕ Обновлено
+widget_created: Виджет Создано
+settings_updated: Настройки Обновлено
+widget_data_updated: Виджет данных Обновлено
+unable_to_write_widget: Невозможно записать виджет
+admin_change_pass_help: Оставьте пустым, если никаких изменений не требуется
+login_with_google: Войти Google
+login_with_facebook: Войти Facebook
+register_for_new_account : Регистрация для новой учетной записи
+site_map : Карта сайта
+show_site_map : Показать на карте сайта
+about : О
+see_full_documentation: полная документация
+edit_profile: Редактировать профиль
+admin: Админ
+re_password: Повторите пароль
+explain_widget_position: Объясните виджетов позиции
+new_ad: Новое объявление
+select_one: Выберите один
+username_or_email: Имя пользователя или адрес электронной почты
+post_detail: Сообщение деталь
+edit_user: Изменить пользователя
+the_field_is_required: Поле% S требуется.
+valid_email: Поле% S должен содержать действительный адрес электронной почты.
+min_length: Поле% S должен быть, по крайней мере символов% с.
+numeric: Поле% S должен содержать только цифры.
+matches: Поле% S не совпадать поле% S.
+greater_than: Поле% S должен содержать число, большее% S.
+must_accept_terms: Вы должны принять условия и сроки
+dont_have_permission: Вы не имеете доступа к этой странице
+email_allready_in_use: E-mail уже используется
+username_allready_in_use: Имя пользователя Allready в использовании
+current_password_not_matched: Текущий пароль А не было \ 'т матч
+email_not_matched: Email не соответствует
+account_not_confirmed: счет не подтвердили
+unique_alias: Поле% S должен быть уникальным
+smtp_email_settings: Настройки SMTP Email
+error_occured: Произошла ошибка. Пожалуйста, проверьте поля ниже
+user_profile: Профиль пользователя
+user_email: Пользователь электронной почте
+target_lang_name: Язык
+enable_signup: Включить Регистрация
+facebook_app_settings: Facebook настройки приложения
+enable_facebook_login: Включить facebook логин
+fb_app_id: Facebook приложение ID
+fb_secret_key: Facebook секретный ключ
+comment_settings: Настройки комментарий
+enable_comment: Включить комментарий
+disqus_shortname: Disqus ShortName
+active_widget_position: Активная позиция виджет
+upload_and_install: Загрузить и установить
+install_updates: Установить обновления / Темы / Плагины / Виджеты
+click_and_edit: Выберите файл шаблона и нажмите редактировать
+google_analytics_settings: Google AnalyticsSettings
+default_seo_settings: Настройки по умолчанию SEO
+find_us_on_facebook: Найти нас на Facebook
+type_anything: Введите Ничего
+login_failed : Войти не удалось
+debug_email : Отладка по электронной почте
+email_to : Для электронной почте
+ive_read_the: Я прочитал
+title_city_category: Название, Город или категории
+css_compression: Объединить все файлы CSS
+all_sub_categories : Все подкатегории
+no_sub_categories : Нет подкатегории
+email_cleared: E-mail очищается
+hide_users_profile_phone: Свернуть пользователи Профиль телефон
+features: Особенности
+content: Содержание
+news_urls: новый источник
+all_sources: Все источники
+addsource: Добавить источник
+new_source: Новый источник
+seo_keywords : Сео Ключевые слова
+seo_description : Сео Описание
+all_news : Все новости
+new_news : Новые Известия
+create_news : Создание Новости
+edit_news : Изменить Новости
+no_source : Нет Источник
+no_category : Нет Категория
+sub_category : Подкатегория
+category_2: S.Category
+news_updated: Новости обновляются
+news_added: Новости создано
+source: Источник
+link:
+media: СМИ
+put_as_comma_separated: Положить в запятой (,), разделенных формат
+site_settings: настройки сайта
+clear_old_news: Ясно старые новости
+news_before: Новости, прежде чем
+leave_empty_if_doesnot_matter: Оставьте пустым, если не имеет значения,
+view_less_than: Посмотреть менее
+without_image: Без изображения
+you_cant_undo_this_action: Вы не можете отменить это действие
+news_deleted: Новости очищается
+general: Общие
+moderator: Модератор
+genaral_user_can_create_post: Пользователь может создавать новости
+moderator_can_create_post: Модератор может создать новость
+auto_crawl: Авто сканирование
+lazy_load_images: Ленивые образы загрузки
+generate_widgets: Создание виджетов
+sidebar: Боковая панель
+pagebody: Pagebody
+widget_generated: Виджет генерируется
+widget_generation_failed: Виджет поколения не удалось
+latest_news: Последние новости
+news_by: По
+top_news: Главные новости
+source_added: Источник Добавлено
+no_news_found: Нет новостей
+clear: Ясно
+view_news_in: Посмотреть новости
+seen_by: Посмотреть
+read_this_on: Прочтите это на
+news_source: Новости из источника
+news_category: Новости из категории
+source_name: Имя
+parent_category: Родительская категория
+news_grabbed: Новости успешно схватил
+rss_url: URL ленты
+auto_grabbing: Авто Захват
+start_on: Начало на
+grab_duration: Захват продолжительность
+item_per_grab: Пункт за захват
+edit_source: Изменить источник
+source_updated: Источник обновляются
+news_featured: Новости признакам
+news_un_featured: Новости ООН признакам
+no_news: Нет новостей
+featured_news: Рекомендуемые Новости
+widget_updated: Виджет обновляются
+delete_selected: Удалить выбранный
+popular_news: Популярные новости
+search_result_for: Результат поиска
+source_type: Тип источника
+make_featured: Сделайте признакам
+enable_cookie_policy_popup: Использование Cookie всплывающих
+cookie_policy_page_url: Печенье страница Политика гиперссылка
+cookie_policy: Печенье политика
+cookie_policy_alert: Этот сайт использует куки. Продолжая использовать этот сайт, вы соглашаетесь на использование нами куки.
+read_more: Подробнее
+i_agree: Я согласен
+confirmation_email : Подтверждение по электронной почте
+recovery_email : Восстановление электронной почты
+payment_confirmation_email : оплата подтверждение по электронной почте
+tracking_code : Код отслеживания
+news: Новости
+source_type: Тип источника
+auto_translate: Авто Перевести
+auto_translator: Авто Переводчик
+from_lang: От языка
+edit_email_template: Изменить адрес электронной почты TMPL
+web_email_settings : настройки веб электронной почты
+on: Опубликовано
+news_sources: Новости Источники
+save_images_locally: Сохранение изображений локально
+media_url_update: Обновление старых СМИ гиперссылка
+old_base_url: Старый база гиперссылка
+new_base_url: новая база гиперссылка
+grab_full_news: Захват полной новости
+disable_main_site_link: Отключить главный ссылку на сайт

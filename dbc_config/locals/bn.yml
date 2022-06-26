@@ -1,0 +1,381 @@
+---
+sign_in: সাইন ইন
+sign_up: সাইন আপ
+agent_panel: এজেন্ট প্যানেল
+admin_panel: অ্যাডমিন প্যানেল
+country: দেশ
+city:
+register: নিবন্ধন
+details: বিস্তারিত
+view_all: সবগুলো
+order_by: আদেশক্রমে
+none: কোনটি
+terms_and_conditions: শর্তাবলী এবং পরিস্থিতি
+reg_success_message: আপনার অ্যাকাউন্ট নিবন্ধীকরণ successfull হয়. একটি ইমেইল আপনার ইমেইল পাঠানো হয়েছে. আপনার account.Thanks সক্রিয় যে ইমেইল অনুসরণ করুন
+recover: উদ্ধার
+oops: ওহো, পৃষ্ঠা খুঁজে পাওয়া যায়নি
+address: ADDRESS
+all: সকল
+contact_us: আমাদের সাথে যোগাযোগ করুন
+confirmation: নিশ্চিতকরণ
+tags: ট্যাগ
+login: লগইন
+post_not_found: পোস্ট খুঁজে পাওয়া যায়নি
+view_more: আরও দেখুন
+image: চিত্র
+create:
+send: প্রেরণ
+contact_subject: যোগাযোগ ইমেইল
+password: পাসওয়ার্ড
+confirm_password: পাসওয়ার্ড নিশ্চিত করুন
+all_posts: সকল পোস্ট
+no_posts: থে পোস্ট
+title: শিরোনাম
+description: বর্ণনা
+status: স্থিতি
+actions: পদক্ষেপ
+type: ধরন
+type_something: কিছু টাইপ
+content: বিষয়বস্তু
+category: বিষয়শ্রেণী
+all_categories: সকল বিভাগ
+edit_category: সম্পাদনা বিভাগ
+new_category: নতুন বিভাগ
+edit: সম্পাদনা
+delete: মুছুন
+name: নাম
+save: সংরক্ষণ
+no_parent: থে ঊর্ধ্বতন
+add_another: আরেকটি যোগ
+export_to_file: এক্সপোর্ট ফাইল করতে
+options: বিকল্প
+all_pages: সকল পেজ
+no_pages: থে পেজ
+manage_menu: মেনু পরিচালনা
+menu_title: মেনু শিরোনাম
+menu_alias: মেনু ওরফে
+show_in_menu: মেনু দেখান
+page_layout: পৃষ্ঠা বিন্যাস
+content_from: থেকে কনটেন্ট
+url: ইউআরএল
+seo_options: এসইও অপশন
+meta_description: মেটা বর্ণনা
+key_words: মূল শব্দ
+crawl_after: পর হামাগুড়ি (দিন)
+all_plugins: সকল প্লাগিন
+no_plugins: কোন প্লাগিন
+name_and_version: নাম এবং সংস্করণ
+change_password: পাসওয়ার্ড পরিবর্তন করুন
+current_password: বর্তমান পাসওয়ার্ড
+new_password: নতুন পাসওয়ার্ড
+retype_password: পাসওয়ার্ড পুনরায় টাইপ করুন
+password_reset_info_msg: প্রথমে আপনার নতুন পাসওয়ার্ড সেট করুন
+edit_profile: সম্পাদনা প্রোফাইল
+profile_picture: প্রোফাইল ছবি
+username: ইউজারনেম
+email: ইমেইল
+first_name: প্রথম নাম
+last_name: সর্বশেষ নাম
+gender: লিঙ্গ
+phone: ফোন
+company_name: কোম্পানি নাম
+about_me: আমার সম্পর্কে
+facebook_account: ফেসবুক অ্যাকাউন্ট
+twitter_account: টুইটার অ্যাকাউন্ট
+linkedin_account: লিঙ্কডইন অ্যাকাউন্ট
+gp_account: গুগল + অ্যাকাউন্টে
+account_msg: Please enter the link, without http: //
+contact_email: যোগাযোগ ইমেইল
+webadmin_name: Webadmin নাম
+webadmin_email: Webadmin ইমেইল
+update:
+upload: আপলোড
+site_settings: সাইট সেটিং
+site_title: সাইট শিরোনাম
+footer_text: পাদলেখ শিরোনাম
+site_logo: সাইট লোগো
+site_language: সাইটের ভাষা
+site_text_direction: সাইট শিরোনাম দিকনির্দেশনা
+per_page: পত্রাঙ্ক প্রতি পৃষ্ঠা
+default_page_layout: ডিফল্ট পৃষ্ঠা বিন্যাস
+smtp_email_settings: এসএমটিপি ইমেইল সেটিংস
+smtp_email: এসএমটিপি ইমেইল
+smtp_host: এসএমটিপি নিমন্ত্রক
+smtp_port: SMTP পোর্ট
+smtp_timeout: এসএমটিপি সমাপ্ত
+smtp_user: এসএমটিপি ব্যবহারকারী
+smtp_password: এসএমটিপি পাসওয়ার্ড
+generate_site_map: সাইট ম্যাপ নির্মাণ
+sitemap_info_msg: NB: আপনি সাইট ম্যাপ XML অন্তর্ভুক্ত করা চাই, যা নির্বাচন করুন. পরে সফল প্রজন্মের sitemap.xml রুট ডিরেক্টরি অধীনে সংরক্ষিত হয়. এছাড়াও আপনি আপনার নিজস্ব URL গুলি সহ জন্য যে ফাইল সম্পাদনা করতে পারেন.
+pages: পেজ
+view_xml: দেখুন এক্সএমএল
+create_xml: এক্সএমএল তৈরি
+manage_backups: পরিচালনা ব্যাকআপ
+create_sql_backup: এসকিউএল ব্যাকআপ তৈরি
+create_image_backup: প্রতিচ্ছবি ব্যাকআপ তৈরি
+restore: পুনরুদ্ধার
+download: ডাউনলোড
+dashboard: ড্যাশবোর্ড
+overview_stats_more: সংক্ষিপ্ত বিবরণ, পরিসংখ্যান এবং আরো
+visit_site: সাইটে যান
+logout: লগআউট
+themes: থিম
+locations: লোকেশন
+profile: প্রফাইল
+agents: এজেন্ট
+widgets: উইজেট
+all_widgets: সমস্ত উইজেট
+widget_positions: উইজেট পজিশন
+new_post: নতুন পোস্ট
+pages_and_menu: পেজ ও মেনু
+new_page: নতুন পৃষ্ঠা
+menu: মেনু
+system: সিস্টেম
+edit_email_text: সম্পাদনা ইমেইল শিরোনাম
+admin_settings: ওয়েব অ্যাডমিন সেটিং
+sitemap: সাইট ম্যাপ
+activate: সক্রিয়
+active_theme: অ্যাক্টিভ থিম
+available_themes: উপলব্ধ থিম
+all_users: সমস্ত ব্যবহারকারীদের
+create_user: ব্যবহারকারী তৈরি
+export_user_email: রপ্তানি ব্যবহারকারী ইমেইল (CSV)
+profile_info: তথ্য প্রোফাইল
+manage_menu: মেনু পরিচালনা
+edit_page: সম্পাদনা পৃষ্ঠা
+create_widget: উইজেট তৈরি করুন
+widget_name: উইজেট নাম
+activate_deactivate: সক্রিয় / ডি সক্রিয়
+show: শো
+available_widgets: উপলব্ধ উইজেট
+active_widgets: সক্রিয় উইজেট
+delete_warning: আপনি নিশ্চিত মুছতে পারি চান.
+yes: হ্যাঁ'
+no: না'
+fa_icon: এফএ আইকন বর্গ
+post_ad: পোস্ট এ্যাড
+post_ad_subtitle: আপনার বিজ্ঞাপন বিস্তারিত রাখুন
+signin: সাইনইন
+signup: সাইনআপ
+signup_title: আপনার অ্যাকাউন্ট তৈরি করুন
+not_found: পাওয়া গেল না
+purpose: উদ্দেশ্য
+select_category: বিভাগ নির্বাচন করুন
+address: ADDRESS
+upload_later_msg: আপনি পোস্ট নির্মাণের পর গ্যালারি ফটো ও ভিডিও URL আপলোড করতে সক্ষম হবেন
+user_panel: ইউজার প্যানেল
+logout: লগআউট
+all_posts: সকল পোস্ট
+put_as_comma_seperated: (,) কমা sperated হিসাবে করা
+added:যোগ করা হয়েছে
+location: অবস্থান
+views: দেখেছে
+add_new: নতুন যোগ
+search: অনুসন্ধান
+contact_mode: মোড যোগাযোগ
+reset: রিসেট
+contact: যোগাযোগ
+type_your_message: এখানে আপনার বার্তা টাইপ করুন ..
+mail_sent: মেইল ​​পাঠানো
+home: বাড়ি
+list_your_ad: তোমার বিজ্ঞাপন তালিকার
+print: প্রিন্ট
+remember_me: আমাকে মনে রাখুন
+forgot_password: পাসওয়ার্ড ভুলে গেছেন
+login_to_your_account: আপনার অ্যাকাউন্টে লগইন
+register_your_account: আপনার অ্যাকাউন্ট নিবন্ধন
+male: পুরুষ
+female: মহিলা
+state: রাজ্য
+users: ব্যবহারকারীরা
+ads: বিজ্ঞপ্তি
+categories: বিভাগ
+top_posts: শীর্ষ পোস্ট
+default_site_settings: ডিফল্ট সাইট সেটিং
+webadmin_settings: Webadmin সেটিংস
+banner_settings: ব্যানার সেটিংস
+logged_in_as: লগ ইন
+password_change_success: পাসওয়ার্ড সফলভাবে পরিবর্তন
+email_sent_inbox: একটি ইমেল আপনার inbox.Check যে ইমেল পাঠাতে হয়.
+password_recovery_link_invalid: পাসওয়ার্ড রিকভারি লিঙ্ক বৈধ নয়
+user_updated: ব্যবহারকারী আপডেট
+user_deleted: ব্যবহারকারী মোছা হয়েছে
+data_inserted: ডাটা সন্নিবেশ করানো
+data_updated: ডেটা আপডেট
+settings_updated: সেটিংস আপডেট
+page_updated: পাতা আপডেট করা
+page_created: পাতা সাম্প্রতিক সময়ে তৈরি
+page_deleted: পাতাটি
+menu_updated: মেনু আপডেট
+site_map_generation_success: সাইট ম্যাপ সফলভাবে উত্পন্ন.
+select_option: নির্বাচন বা তার বেশি বিকল্প নির্বাচন করুন দয়া করে.
+image_backup_created: চিত্র ব্যাকআপ তৈরি
+language_translated: ভাষাটি অনুবাদ
+backup_deleted: ব্যাক মুছে ফেলা
+database_restored: ডাটাবেজ পুনঃস্থাপিত
+theme_activated: থিম সক্রিয়
+user_created: ইউজার তৈরী করা হয়েছে
+widget_position_updated: উইজেট Postion আপডেট
+widget_created: উইজেট তৈরি
+settings_updated: সেটিংস আপডেট
+widget_data_updated: উইজেট তথ্য আপডেট
+unable_to_write_widget: উইজেট লিখতে অক্ষম
+admin_change_pass_help: থে পরিবর্তনের প্রয়োজন হলে ফাঁকা ছেড়ে দিন
+login_with_google: গুগল দিয়ে লগইন করুন
+login_with_facebook: ফেসবুক দিয়ে লগইন করুন
+register_for_new_account : নতুন একাউন্টের জন্য আবেদন
+site_map : সাইট ম্যাপ
+show_site_map : দেখান সাইট ম্যাপ
+about : সম্পর্কে
+see_full_documentation: সম্পূর্ণ ডকুমেন্টেশন দেখুন
+edit_profile: সম্পাদনা প্রোফাইল
+admin: অ্যাডমিন
+re_password: পাসওয়ার্ড পুনরায় টাইপ করুন
+explain_widget_position: উইজেট অবস্থানের ব্যাখ্যা করুন
+new_ad: নতুন বিজ্ঞাপন
+select_one: একটি নির্বাচন করুন
+username_or_email: নাম অথবা ইমেইল
+post_detail: পোস্ট বিস্তারিত
+edit_user: সম্পাদনা ব্যবহারকারী
+the_field_is_required:% এর ক্ষেত্র প্রয়োজন বোধ করা হয়.
+valid_email:% এর ক্ষেত্রের একটি বৈধ ইমেইল ঠিকানা থাকতে হবে.
+min_length:% এর ক্ষেত্রের দৈর্ঘ্য অন্তত% এর অক্ষর ব্যবহার করা আবশ্যক.
+numeric:% এর ক্ষেত্র শুধুমাত্র সংখ্যা থাকতে হবে.
+matches:% এর ক্ষেত্র% এর ক্ষেত্রের সাথে মেলে না.
+greater_than:% এর ক্ষেত্র% এর চেয়ে বড় কোন নম্বর থাকতে হবে.
+must_accept_terms: আপনি শর্তাবলী এবং অবস্থা গ্রহণ করতে হবে
+dont_have_permission: আপনি এই পৃষ্ঠাটি অ্যাক্সেস করার অনুমতি আছে না
+email_allready_in_use: ইতিমধ্যে ব্যবহারে ইমেইল
+username_allready_in_use: ইউজারনেম ইতিমধ্যে ব্যবহারে
+current_password_not_matched: বর্তমান পাসওয়ার্ড পাননি \ 'টি ম্যাচ
+email_not_matched: মিলেছে না ইমেইল
+account_not_confirmed: নিশ্চিত জবাবদিহিতার
+unique_alias:% এর ক্ষেত্রের অনন্য করা প্রয়োজন
+smtp_email_settings: এসএমটিপি ইমেইল সেটিংস
+error_occured: ত্রুটি ঘটেছে. নিচের ক্ষেত্র চেক করুন
+user_profile: ব্যবহারকারী প্রফাইল '
+user_email: ইউজার ইমেইল
+target_lang_name: টার্গেট ভাষা
+enable_signup: সাইনআপ সক্রিয়
+facebook_app_settings: ফেসবুক অ্যাপ্লিকেশন সেটিংস
+enable_facebook_login: ফেসবুকে লগইন সক্রিয়
+fb_app_id: ফেসবুক অ্যাপ্লিকেশন আইডি
+fb_secret_key: ফেসবুক গোপন চাবি
+comment_settings: মন্তব্য সেটিংস
+enable_comment: মন্তব্য সক্রিয়
+disqus_shortname: Disqus Shortname
+active_widget_position: সক্রিয় উইজেট অবস্থান
+upload_and_install: আপলোড এবং ইনস্টল
+install_updates: আপডেট / থিম ইনস্টল করুন / প্লাগইন / উইজেট
+click_and_edit: একটি টেমপ্লেট ফাইল নির্বাচন করুন এবং সম্পাদনা ক্লিক
+google_analytics_settings: গুগল AnalyticsSettings
+default_seo_settings: ডিফল্ট এসইও সেটিংস
+find_us_on_facebook: ফেসবুকে আমাদের খুঁজুন
+type_anything: কিছু টাইপ
+login_failed : লগইন ব্যর্থ
+debug_email : ডিবাগ ইমেইল
+email_to : ইমেইল করুন
+ive_read_the: আমি পড়েছি
+title_city_category: শিরোনাম, শহর বা বিভাগ
+css_compression: সব সিএসএস ফাইল মার্জ
+all_sub_categories : সমস্ত সাব বিভাগ
+no_sub_categories : থে সাব বিভাগ
+email_cleared: ইমেইল সাফ
+hide_users_profile_phone: লুকান ব্যবহারকারীদের প্রোফাইল ফোন
+features: বৈশিষ্ট্য
+content: বিষয়বস্তু
+news_urls: নতুন উৎস
+all_sources: সকল সূত্র
+addsource: উৎস যোগ
+new_source: নতুন উৎস
+seo_keywords : এসইও মূলশব্দ
+seo_description : SEO বিবরণ
+all_news : সকল সংবাদ
+new_news : নতুন খবর
+create_news : সংবাদ তৈরি
+edit_news : সম্পাদনা সংবাদ
+no_source : কোন উৎস
+no_category : কোন বিভাগ
+sub_category : নিম্নতর বিষয়শ্রেণী
+category_2: S.Category
+news_updated: সংবাদ আপডেট
+news_added: সংবাদ তৈরি
+source: উত্স
+link: লিংক
+media: মিডিয়া
+put_as_comma_separated: কমা হিসাবে রাখুন (,) বিন্যাসে বিভক্ত
+site_settings: সাইট সেটিং
+clear_old_news: পরিষ্কার পুরাতন সংবাদ
+news_before: আগে সংবাদ
+leave_empty_if_doesnot_matter: কোন ব্যাপার না, তাহলে খালি ছেড়ে দিন
+view_less_than: দেখুন কম
+without_image: চিত্র ছাড়া
+you_cant_undo_this_action: আপনি এই কর্ম পূর্বাবস্থা করতে পারবেন না
+news_deleted: সংবাদ সাফ
+general: সাধারণ
+moderator: মডারেটর
+genaral_user_can_create_post: ইউজার সংবাদ তৈরি করতে পারেন
+moderator_can_create_post: সংবাদ তৈরি করতে পারেন মডারেটর
+auto_crawl: অটো হামাগুড়ি
+lazy_load_images: অলস লোড হচ্ছে চিত্র
+generate_widgets: উইজেট তৈরি
+sidebar: সাইডবার
+pagebody: Pagebody
+widget_generated: উইজেট উত্পন্ন
+widget_generation_failed: উইজেট প্রজন্মের ব্যর্থ
+latest_news: সর্বশেষ সংবাদ
+news_by: দ্বারা
+top_news: শীর্ষ সংবাদ
+source_added: উৎস যোগ
+no_news_found: থে সংবাদ
+clear: সাফ
+view_news_in: দেখুন সংবাদ
+seen_by: দেখুন
+read_this_on: এই পড়ুন
+news_source: একটি উৎস থেকে খবর
+news_category: একটি বিভাগ থেকে খবর
+source_name: নাম
+parent_category: মূল শ্রেণী
+news_grabbed: সংবাদ সফলভাবে ধরলাম
+rss_url: ফিড URL
+auto_grabbing: অটো দখল
+start_on: প্রথম শুরু
+grab_duration: খপ সময়কাল
+item_per_grab: খপ প্রতি আইটেম
+edit_source: সম্পাদনা
+source_updated: উত্স আপডেট
+news_featured: আলোচিত সংবাদ
+news_un_featured: সংবাদ জাতিসংঘের বৈশিষ্ট্যযুক্ত
+no_news: থে সংবাদ
+featured_news: আলোচিত সংবাদ
+widget_updated: উইজেট আপডেট
+delete_selected: নির্বাচিত মুছে
+popular_news: জনপ্রিয় খবর
+search_result_for: অনুসন্ধান ফলাফল
+source_type: উত্স প্রকার
+make_featured: বৈশিষ্ট্যযুক্ত করা
+enable_cookie_policy_popup: কুকি নীতি পপআপ
+cookie_policy_page_url: কুকি নীতি পৃষ্ঠা URL
+cookie_policy: কুকি নীতি
+cookie_policy_alert: এই সাইটটি কুকি ব্যবহার করে. আপনি অনুসন্ধান করুন আমাদের সাথে যোগাযোগ ব্যবহার করা চালিয়ে গিয়ে.
+read_more: আরও পড়ুন
+i_agree: আমি একমত
+confirmation_email : নিশ্চিতকরণ ইমেইল
+recovery_email : রিকভারি ইমেইল
+payment_confirmation_email : পেমেন্ট নিশ্চিতকরণ ইমেল
+tracking_code : ট্র্যাকিং কোড
+news: সংবাদ
+source_type: উত্স প্রকার
+auto_translate: অটো অনুবাদ
+auto_translator: অটো অনুবাদক
+from_lang: ভাষা থেকে
+edit_email_template: সম্পাদনা ইমেইল tmpl
+web_email_settings : ওয়েব ইমেল সেটিংস
+on:
+news_sources: সংবাদ উত্স
+save_images_locally: স্থানীয়ভাবে ইমেজ সংরক্ষণ করুন
+media_url_update: আপডেট পুরোনো মিডিয়া URL
+old_base_url: প্রাচীন বেস URL
+new_base_url: নতুন বেস URL
+grab_full_news: পুরো সংবাদ
+disable_main_site_link: নিষ্ক্রিয় মূল সাইট লিঙ্ক 

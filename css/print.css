@@ -1,0 +1,29 @@
+body {-webkit-print-color-adjust: exact;}
+.page { page-break-after: always; page-break-inside: avoid; }
+h1 { font: 24pt Arial, "Times New Roman", Times, serif; }
+h2 { font: 18pt Arial, "Times New Roman", Times, serif; }
+h4 { font: 10pt Arial, "Times New Roman", Times, serif; }
+p { font: 9pt Arial, "Times New Roman", Times, serif; line-height: 1.1em; margin:5pt 5pt 2pt -10pt;}
+.ogretmen1 { background-color: #d1dade !important;color: #5e5e5e;font: 8pt Arial, "Times New Roman", Times, serif;padding:4pt;margin:5pt 5pt 0 -10pt; }
+.ogretmen2 { font: 7pt Arial, "Times New Roman", Times, serif;}
+
+.kapsayici1 { margin-top:10pt; overflow:hidden;}
+.kapsayici2 { padding-bottom:5pt;border-left:35pt solid #d1dade;min-height:80pt; }
+.kapsayici2:before { 
+	content: '.';
+    position: absolute;
+    top: 0; left: -35pt;
+    border-top: 20pt solid #fff;
+    border-right: 35pt solid #d1dade;
+    width: 0;
+ }
+.verticaltext { writing-mode: tb-rl; filter: flipv fliph;font: 12pt Arial, "Times New Roman", Times, serif;position:absolute;left:0;padding:5pt;margin-right:10pt;margin-left:-35pt;
+-webkit-transform: rotate(-180deg);/* Safari */
+-moz-transform: rotate(-180deg);/* Firefox */
+-ms-transform: rotate(-180deg);/* IE */
+-o-transform: rotate(-180deg);/* Opera */
+filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);/* Internet Explorer */
+} 
+.grayback { background-color: #d1dade !important; text-transform:uppercase}
+.border-bottom-header  { border-bottom:10pt solid #d1dade !important}
+.border-bottom  { border-bottom:5pt solid #d1dade !important}

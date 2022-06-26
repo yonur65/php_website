@@ -1,0 +1,735 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>DAVRANIŞ SEÇENEKLERİ</title>
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="font-awesome/css/font-awesome.css" rel="stylesheet">
+
+    <link href="css/plugins/awesome-bootstrap-checkbox/awesome-bootstrap-checkbox.css" rel="stylesheet">
+
+    <!-- FooTable -->
+    <link href="css/plugins/footable/footable.core.css" rel="stylesheet">
+
+    <link href="css/animate.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/ozel.css" rel="stylesheet">
+
+    <link href="css/jquery.multiselect.css" rel="stylesheet">
+</head>
+<body>
+<div id="wrapper">
+    <nav class="navbar-default navbar-static-side" role="navigation">
+        <div class="sidebar-collapse">
+            <ul class="nav metismenu" id="side-menu">
+                <li class="nav-header">
+                    <div class="dropdown profile-element">
+                        <span>
+                            <img alt="image" class="img-circle" src="img/profile_small.jpg" />
+                        </span>
+                        <span>
+                            <img alt="image" class="img-circle" src="img/sertifika.png" />
+                        </span>
+                        <a data-toggle="dropdown" class="dropdown-toggle" href="#">
+                            <span class="clear"> <span class="block m-t-xs"> <strong class="font-bold">Mehmet ÇİFCİ</strong>
+                             </span> <span class="text-muted text-xs block">Yönetici <b class="caret"></b></span> </span> </a>
+                        <ul class="dropdown-menu animated fadeInRight m-t-xs">
+                            <li><a href="profile.html">Profil</a></li>
+                            <li><a href="contacts.html">İletişim</a></li>
+                            <li><a href="mailbox.html">Mailbox</a></li>
+                            <li class="divider"></li>
+                            <li><a href="login.html">Çıkış</a></li>
+                        </ul>
+                    </div>
+                    <div class="logo-element">
+                        M+
+                    </div>
+                </li>
+                <li>
+                    <a href="index.html"><i class="fa fa-home"></i> <span class="nav-label">Ana Sayfa</span></a>
+                </li>
+                 
+                <li class="active">
+                    <a href="#"><i class="fa fa-graduation-cap"></i> <span class="nav-label">Öğrenci İşlemleri</span> <span class="fa arrow"></span></a>
+                    <ul class="nav nav-second-level">
+                        
+                         
+                        <li class="active"><a href="davranis-takibi.html">Davranış Takibi</a></li>
+                        
+                    </ul>
+                </li>
+                
+                
+                                <li>
+                    <a href="#"><i class="fa fa-cog"></i> <span class="nav-label">GENEL AYARLAR</span> <span class="fa arrow"></span></a>
+                    <ul class="nav nav-second-level collapse">
+                    	 					 
+						<li><a href="davranis-secenekleri.html">Davranış Seçenekleri</a></li>
+                        
+                    </ul>
+                </li>
+                 
+            </ul></nav>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+    <div id="page-wrapper" class="gray-bg">
+        <!--search-->
+        <div class="row border-bottom">
+            <nav class="navbar navbar-static-top  " role="navigation" style="margin-bottom: 0">
+                <div class="navbar-header">
+                    <a class="navbar-minimalize minimalize-styl-2 btn btn-primary " href="#"><i class="fa fa-bars"></i>
+                    </a>
+                    <form role="search" class="navbar-form-custom" action="#">
+                        <div class="form-group">
+                            <input type="text" placeholder="Site içi ara..." class="form-control" name="top-search"
+                                   id="top-search">
+                        </div>
+                    </form>
+                </div>
+                <ul class="nav navbar-top-links navbar-right">
+                    <li>
+                        <span class="m-r-sm text-muted welcome-message"> +</span>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle count-info" data-toggle="dropdown" href="#">
+                            <i class="fa fa-envelope"></i> <span class="label label-warning">16</span>
+                        </a>
+                        <ul class="dropdown-menu dropdown-messages">
+                            <li>
+                                <div class="dropdown-messages-box">
+                                    <a href="profile.html" class="pull-left">
+                                        <img alt="image" class="img-circle" src="img/a7.jpg">
+                                    </a>
+                                    <div class="media-body">
+                                        <small class="pull-right">46h ago</small>
+                                        <strong>Mike Loreipsum</strong> started following <strong>Monica Smith</strong>.
+                                        <br>
+                                        <small class="text-muted">3 days ago at 7:58 pm - 10.06.2014</small>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="divider"></li>
+                            <li>
+                                <div class="dropdown-messages-box">
+                                    <a href="profile.html" class="pull-left">
+                                        <img alt="image" class="img-circle" src="img/a4.jpg">
+                                    </a>
+                                    <div class="media-body ">
+                                        <small class="pull-right text-navy">5h ago</small>
+                                        <strong>Chris Johnatan Overtunk</strong> started following <strong>Monica
+                                        Smith</strong>. <br>
+                                        <small class="text-muted">Yesterday 1:21 pm - 11.06.2014</small>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="divider"></li>
+                            <li>
+                                <div class="dropdown-messages-box">
+                                    <a href="profile.html" class="pull-left">
+                                        <img alt="image" class="img-circle" src="img/profile.jpg">
+                                    </a>
+                                    <div class="media-body ">
+                                        <small class="pull-right">23h ago</small>
+                                        <strong>Monica Smith</strong> love <strong>Kim Smith</strong>. <br>
+                                        <small class="text-muted">2 days ago at 2:30 am - 11.06.2014</small>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="divider"></li>
+                            <li>
+                                <div class="text-center link-block">
+                                    <a href="mailbox.html">
+                                        <i class="fa fa-envelope"></i> <strong>Read All Messages</strong>
+                                    </a>
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle count-info" data-toggle="dropdown" href="#">
+                            <i class="fa fa-bell"></i> <span class="label label-primary">8</span>
+                        </a>
+                        <ul class="dropdown-menu dropdown-alerts">
+                            <li>
+                                <a href="mailbox.html">
+                                    <div>
+                                        <i class="fa fa-envelope fa-fw"></i> You have 16 messages
+                                        <span class="pull-right text-muted small">4 minutes ago</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="divider"></li>
+                            <li>
+                                <a href="profile.html">
+                                    <div>
+                                        <i class="fa fa-twitter fa-fw"></i> 3 New Followers
+                                        <span class="pull-right text-muted small">12 minutes ago</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="divider"></li>
+                            <li>
+                                <a href="grid_options.html">
+                                    <div>
+                                        <i class="fa fa-upload fa-fw"></i> Server Rebooted
+                                        <span class="pull-right text-muted small">4 minutes ago</span>
+                                    </div>
+                                </a>
+                            </li>
+                            <li class="divider"></li>
+                            <li>
+                                <div class="text-center link-block">
+                                    <a href="notifications.html">
+                                        <strong>See All Alerts</strong>
+                                        <i class="fa fa-angle-right"></i>
+                                    </a>
+                                </div>
+                            </li>
+                        </ul>
+                    </li>
+
+
+                    <li>
+                        <a href="login.html">
+                            <i class="fa fa-sign-out"></i> Çıkış
+                        </a>
+                    </li>
+                </ul>
+
+            </nav>
+        </div><!--#search-->
+        <div class="wrapper nopadding-wrapper">
+            <!--infobar-->
+            <div class="row wrapper border-bottom white-bg page-heading">
+                <div class="col-sm-9">
+                    <h2>DAVRANIŞ SEÇENEKLERİ</h2>
+                    <p>Öğrencilerin davranış seçeneklerini ekleyebilir, düzenleyebilirsiniz..</p>
+                </div>
+                <!--info button-->
+                <div class="col-sm-3 title-action">
+                    <a href="davranis-kategorileri.html"><button class="btn btn-info btn-lg" type="button" title="Liste"><i class="fa fa-th-list"></i> </button></a>
+                    <a href="davranis-secenekleri.html"><button class="btn btn-success btn-lg" type="button" title="Yeni"><i class="fa fa-plus"></i></button></a>
+                    <a href="javascript:history.back(-1)"><button class="btn btn-default btn-outline btn-lg" type="button" title="Önceki"><i class="fa fa-reply"></i></button></a>
+                </div><!--#info button-->
+            </div><!--#infobar-->
+            <!--content-->
+            <div class="wrapper wrapper-content animated fadeInRight back-change">
+                <!--duyurular-->
+                <div class="row">
+                    <!--sutun1-->
+                    <div class="col-lg-12">
+                        <div class="tabs-container">
+                            <ul class="nav nav-tabs">
+                                <li class="active"><a data-toggle="tab" href="#tab-1">Kategoriler</a></li>
+                                <li class=""><a data-toggle="tab" href="#tab-2">Davranışlar</a></li>
+                                <li class=""><a data-toggle="tab" href="#tab-3">Sertifikalar</a></li>
+                            </ul>
+                            <div class="tab-content">
+                                <!--yeni tab-->
+                                <div id="tab-1" class="tab-pane active">
+                                    <div class="panel-body">
+                                        <!--filtre-->
+                                        <div class="row form-horizontal">
+                                            <div class="col-sm-12">
+                                                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 form-group has-feedback">
+                                                    <label class="font-noraml control-label">Okul:</label>
+                                                    <select multiple class="multiselect1" required>
+                                                        <option>Tümü</option>
+                                                        <option>Yeni okul adı AO</option>
+                                                        <option>Yeni okul adı İO</option>
+                                                        <option>Yeni okul adı OO</option>
+                                                    </select>
+                                                </div>
+                                                <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 form-group has-feedback">
+                                                    <label class="font-noraml control-label">Davranış Kategori
+                                                        Adı:</label>
+                                                    <input type="text" placeholder="Örn. Ders" class="form-control"
+                                                           required>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--#filtre-->
+
+                                        <!--#işlem buttonları EKLEME İŞLEMİ BUTONLARI-->
+                                        <div class="col-sm-12">
+                                            <hr>
+                                            <button class="btn btn-default btn-outline btn-lg pull-left margin-ayar"
+                                                    type="reset" title="Formu Temizle"><i class="fa fa-eraser"></i>
+                                            </button>
+                                            <button class="btn btn-success btn-lg pull-right margin-ayar" type="submit"
+                                                    value="kaydet" name="tab_degisim_144_kaydet"
+                                                    id="tab_degisim_144_kaydet" title="Kaydet"><i
+                                                    class="fa fa-save"></i> Kaydet
+                                            </button>
+                                        </div>
+                                        <!--#işlem buttonları-->
+                                    </div>
+                                    <!--ödev listesi-->
+                                    <div class="row"><h2></h2>
+                                        <div class="col-lg-12">
+                                            <div class="ibox float-e-margins">
+                                                <div class="ibox-content">
+                                                    <h2>Davranış Kategorileri</h2> <br>
+                                                    <div class="table-responsive">
+                                                        <table class="footable table-hover table-bordered table table-stripped toggle-arrow-tiny" data-page-size="8">
+                                                            <thead>
+                                                            <tr>
+                                                                <th data-sort-initial="descending" style="width: 300px">Davranış Kategorisi</th>
+                                                                <th>Okul</th>
+                                                                <th data-sort-ignore="true" style="width:75px"></th>
+                                                            </tr>
+                                                            </thead>
+                                                            <tbody>
+
+                                                            <tr>
+                                                                <td>Disiplin</td>
+                                                                <td>Merter OO</td>
+                                                                <td><a href="personel-ekle.html">
+                                                                    <button class="btn btn-info pull-right btn-lg"
+                                                                            type="button" data-toggle="tooltip"
+                                                                            title="Düzenle"><i class="fa fa-edit"></i>
+                                                                    </button>
+                                                                </a></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Ders</td>
+                                                                <td>Merter IO, Merter OO</td>
+                                                                <td><a href="personel-ekle.html">
+                                                                    <button class="btn btn-info pull-right btn-lg"
+                                                                            type="button" data-toggle="tooltip"
+                                                                            title="Düzenle"><i class="fa fa-edit"></i>
+                                                                    </button>
+                                                                </a></td>
+                                                            </tr>
+                                                            </tbody>
+                                                            <tfoot>
+                                                            <tr>
+                                                                <td colspan="3">
+                                                                    <ul class="pagination pull-right"></ul>
+                                                                </td>
+                                                            </tr>
+                                                            </tfoot>
+
+                                                        </table>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--#ödev listesi-->
+                                </div><!--#yeni tab-->
+                                <!--yeni tab-->
+                                <div id="tab-2" class="tab-pane">
+                                    <div class="panel-body">
+                                        <!--filtre-->
+                                        <div class="row form-horizontal">
+                                            <div class="col-sm-6 b-r">
+                                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 form-group has-feedback">
+                                                    <label class="font-noraml control-label">Davranış
+                                                        Kategorisi:</label>
+                                                    <select class="form-control" name="Hafta">
+                                                        <option selected disabled>Lütfen Seçiniz</option>
+                                                        <option>Ders</option>
+                                                        <option value="#">Disiplin</option>
+                                                        <option value="#">Genel</option>
+                                                        <option value="#">Kitap</option>
+                                                        <option value="#">Ödev</option>
+                                                        <option value="#">Temsil</option>
+                                                    </select>
+                                                </div>
+                                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 form-group has-feedback">
+                                                    <label class="font-noraml control-label">Davranış:</label>
+                                                    <input type="text" placeholder="Örn. Derse katılımı çok iyi"
+                                                           class="form-control">
+                                                </div>
+
+                                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 form-group has-feedback">
+                                                    <label class="font-noraml control-label">Puanı:</label>
+                                                    <select class="form-control" name="sinif">
+                                                        <option class="text-info">0 Puan</option>
+                                                        <option>1 Puan</option>
+                                                        <option>2 Puan</option>
+                                                        <option>3 Puan</option>
+                                                        <option>4 Puan</option>
+                                                        <option>5 Puan</option>
+                                                        <option>6 Puan</option>
+                                                        <option>7 Puan</option>
+                                                        <option>8 Puan</option>
+                                                        <option>9 Puan</option>
+                                                        <option>10 Puan</option>
+                                                    </select>
+                                                </div>
+
+                                            </div>
+
+                                            <div class="col-sm-6">
+
+                                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 form-group has-feedback">
+                                                    <label class="font-noraml control-label">PDR Açıklama:</label>
+                                                    <textarea placeholder="Bu davranış için PDR tarafından yazılacak özel açıklama. Bilgilendirme ekranlarında kullanılacaktır." class="form-control" rows="4" maxlength="300"></textarea>
+                                                </div>
+
+                                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 form-group has-feedback">
+                                                    <div class="checkbox checkbox-info">
+                                                        <input id="checkbox1" type="checkbox"><label for="checkbox1"><i class="fa fa-pagelines text-info pull-left margin-ayar"></i>Bu davranışı yapan öğrenciler PDR personeli ekranında gözüksün</label></div>
+                                                </div>
+                                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 form-group has-feedback">
+                                                    <div class="checkbox checkbox-info">
+                                                        <input id="checkbox2" type="checkbox"><label for="checkbox2"><i class="fa fa-bell text-info pull-left margin-ayar"></i>Bildiri olarak gönderilsin</label></div>
+                                                </div>
+                                            </div>
+                                        </div><!--#filtre-->
+                                        <!--#işlem buttonları EKLEME İŞLEMİ BUTONLARI-->
+                                        <div class="col-sm-12">
+                                            <hr>
+                                            <button class="btn btn-default btn-outline btn-lg pull-left margin-ayar"
+                                                    type="reset" title="Formu Temizle"><i class="fa fa-eraser"></i>
+                                            </button>
+                                            <button class="btn btn-success btn-lg pull-right margin-ayar" type="submit"
+                                                    value="kaydet" name="tab_degisim_144_kaydet"
+                                                    id="tab_degisim_144_kaydet" title="Kaydet"><i
+                                                    class="fa fa-save"></i> Kaydet
+                                            </button>
+                                        </div>
+                                        <!--#işlem buttonları-->
+                                    </div>
+                                    <!--ödev listesi-->
+                                    <div class="row"><h2></h2>
+                                        <div class="col-lg-12">
+                                            <div class="ibox float-e-margins">
+                                                <div class="ibox-content">
+                                                    <h2>Davranışlar Listesi</h2> <br>
+                                                    <div class="table-responsive">
+                                                        <table class="footable table-hover table-bordered table table-stripped toggle-arrow-tiny" data-page-size="8">
+                                                            <thead>
+                                                            <tr>
+                                                                <th style="width: 300px">Davranış Kategorisi</th>
+                                                                <th>Açıklama</th>
+                                                                <th style="width: 100px">Puan</th>
+                                                                <th data-sort-ignore="true" style="width:75px"></th>
+                                                            </tr>
+                                                            </thead>
+                                                            <tbody>
+                                                            <tr>
+                                                                <td>Ders</td>
+                                                                <td>Yabancı dil dersinden haftanın öğrencisi seçildi.
+                                                                    <i class="fa fa-pagelines text-info pull-right margin-ayar"></i>
+                                                                </td>
+                                                                <td>5 Puan</td>
+                                                                <td><a href="personel-ekle.html"><button class="btn btn-info pull-right btn-lg" type="button" data-toggle="tooltip" title="Düzenle"><i class="fa fa-edit"></i></button></a></td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>Disiplin</td>
+                                                                <td>
+                                                                    Ders araç ve gereçlerini eksik getirdi.
+                                                                    <i class="fa fa-bell text-info pull-right margin-ayar"></i><i class="fa fa-pagelines text-info pull-right margin-ayar"></i>
+                                                                </td>
+                                                                <td>8 Puan</td>
+                                                                <td><a href="personel-ekle.html"><button class="btn btn-info pull-right btn-lg" type="button" data-toggle="tooltip" title="Düzenle"><i class="fa fa-edit"></i></button></a></td>
+                                                            </tr>
+                                                            </tbody>
+                                                            <tfoot>
+                                                            <tr>
+                                                                <td colspan="4">
+                                                                    <ul class="pagination pull-right"></ul>
+                                                                </td>
+                                                            </tr>
+                                                            </tfoot>
+                                                        </table>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--#ödev listesi-->
+                                </div><!--#yeni tab-->
+                                <!--yeni tab-->
+                                <div id="tab-3" class="tab-pane">
+                                    <div class="panel-body">
+                                        <!--filtre-->
+                                        <div class="row form-horizontal">
+                                            <div class="col-sm-6 b-r">
+                                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 form-group has-feedback">
+                                                    <label class="font-noraml control-label">Okul:</label>
+                                                    <select multiple class="multiselect1">
+                                                        <option>Yeni okul adı AO</option>
+                                                        <option>Yeni okul adı İO</option>
+                                                        <option>Yeni okul adı OO</option>
+                                                    </select>
+                                                </div>
+                                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 form-group has-feedback">
+                                                    <label class="font-noraml control-label">Sertifika Adı:</label>
+                                                    <input type="text" placeholder="Örn. Altın Sertifika"
+                                                           class="form-control">
+                                                </div>
+                                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 form-group has-feedback">
+                                                    <label class="font-noraml control-label">Başlangıç Puanı:</label>
+                                                    <input type="text" placeholder="Örn. 100" class="form-control">
+                                                </div>
+                                            </div>
+
+                                            <div class="col-sm-6">
+
+                                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 form-group has-feedback">
+                                                    <label class="font-noraml control-label">Kaç yıldızdan sonra sertifikaya 1 yıldız eklensin:</label>
+                                                    <input type="text" placeholder="Örn. 15" class="form-control">
+                                                    <small>Yukarıda belirlenen sayının katlarında (örn 15, 30, 45) sertifikaya 1 yıldız eklenecektir. Örn 15 yıldızdan sonra; 1 yıldızlı gümüş sertifika gibi.</small>
+                                                </div>
+
+                                                <div class="col-md-12">
+                                                    <div class="checkbox checkbox-info">
+                                                        <div class="checkbox checkbox-info">
+                                                            <input id="checkbox9" type="checkbox">
+                                                            <label for="checkbox9"><i
+                                                                    class="fa fa-bell text-info pull-left margin-ayar"></i>Öğrenci sertifika almaya hak kazandığında veliye bildiri gitsin</label>
+                                                        </div>
+
+                                                    </div>
+                                                    <!--gunler-->
+                                                    <div id="bildirigunleri" style="display: none;margin-top:10px">
+                                                        <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 form-group has-feedback">
+                                                            <label class="font-noraml control-label">Veliye Gidecek Mesaj İçeriği:</label>
+                                                            <textarea placeholder="Örn. Sayın velimiz; öğrencimiz {X} Gümüş Sertifika almaya hak kazanmıştır. Kendisini tebrik ederiz." class="form-control" rows="2"></textarea>
+                                                            <small>Not: Öğrencinin isminin çıkması için {X} yazabilirsiniz.</small>
+                                                        </div>
+                                                    </div>
+
+                                                    <script type="text/javascript"
+                                                            src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+                                                    <script type="text/javascript">
+                                                        $(function () {
+                                                            $("#checkbox9").click(function () {
+                                                                if ($(this).is(":checked")) {
+                                                                    $("#bildirigunleri").show();
+                                                                } else {
+                                                                    $("#bildirigunleri").hide();
+                                                                }
+                                                            });
+                                                        });
+                                                    </script>
+                                                    <!--/gunler-->
+
+
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 form-group has-feedback">
+                                                        <label class="font-noraml control-label"></label>
+                                                        <img src="img/sertifika.png" alt="" style="max-width:100px">
+                                                    </div>
+
+                                                </div>
+                                            </div><!--#filtre-->
+                                            <!--#işlem buttonları EKLEME İŞLEMİ BUTONLARI-->
+                                            <div class="col-sm-12">
+                                                <hr>
+                                                <button class="btn btn-default btn-outline btn-lg pull-left margin-ayar"
+                                                        type="reset" title="Formu Temizle"><i class="fa fa-eraser"></i>
+                                                </button>
+                                                <button class="btn btn-success btn-lg pull-right margin-ayar"
+                                                        type="submit" value="kaydet" name="tab_degisim_144_kaydet"
+                                                        id="tab_degisim_144_kaydet" title="Kaydet"><i
+                                                        class="fa fa-save"></i> Kaydet
+                                                </button>
+                                            </div>
+                                            <!--#işlem buttonları-->
+                                        </div>
+                                        <!--ödev listesi-->
+                                        <div class="row"><h2></h2>
+                                            <div class="col-lg-12">
+                                                <div class="ibox float-e-margins">
+                                                    <div class="ibox-content">
+                                                        <h2>Sertifikalar Listesi</h2> <br>
+                                                        <div class="table-responsive">
+                                                            <table class="footable table-hover table-bordered table table-stripped toggle-arrow-tiny" data-page-size="8">
+                                                                <thead>
+                                                                <tr>
+                                                                    <th>Sertifika Adı</th>
+                                                                    <th class="text-center" data-sort-ignore="true" style="width: 100px">İcon</th>
+                                                                    <th>Başlangıç Puanı</th>
+                                                                    <th data-sort-ignore="true">Bildiri</th>
+                                                                    <th data-sort-ignore="true" style="width: 200px">Okul</th>
+                                                                    <th data-sort-ignore="true" style="width:75px"></th>
+                                                                </tr>
+                                                                </thead>
+                                                                <tbody>
+                                                                <tr>
+                                                                    <td>Bronz Sertifika</td>
+                                                                    <td class="text-center"><img src="img/sertifika.png" alt=""
+                                                                             style="width:40px"></td>
+                                                                    <td>100</td>
+                                                                    <td>
+                                                                        Sayın velimiz, öğrencimiz {X} Gümüş Sertifika almaya hak kazanmıştır.
+                                                                        <i class="fa fa-bell text-info pull-right margin-ayar"></i>
+                                                                    </td>
+                                                                    <td>Merter IO, Merter OO</td>
+                                                                    <td>
+                                                                        <a href="personel-ekle.html">
+                                                                            <button class="btn btn-info pull-right btn-lg"
+                                                                                    type="button" data-toggle="tooltip"
+                                                                                    title="Düzenle"><i
+                                                                                    class="fa fa-edit"></i></button>
+                                                                        </a>
+
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>Gümüş Sertifika</td>
+                                                                    <td class="text-center"><img src="img/sertifika.png" alt=""
+                                                                             style="width:40px"></td>
+                                                                    <td>200</td>
+                                                                    <td>
+                                                                        Sayın velimiz, öğrencimiz {X} Gümüş Sertifika almaya hak kazanmıştır.
+                                                                        <i class="fa fa-bell text-info pull-right margin-ayar"></i>
+                                                                    </td>
+                                                                    <td>Merter IO</td>
+                                                                    <td>
+                                                                        <a href="personel-ekle.html">
+                                                                            <button class="btn btn-info pull-right btn-lg"
+                                                                                    type="button" data-toggle="tooltip"
+                                                                                    title="Düzenle"><i
+                                                                                    class="fa fa-edit"></i></button>
+                                                                        </a>
+
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>Altın Sertifika</td>
+                                                                    <td class="text-center"><img src="img/sertifika.png" alt=""
+                                                                             style="width:40px"></td>
+                                                                    <td>300</td>
+                                                                    <td>
+                                                                        Sayın velimiz, öğrencimiz {X} Gümüş Sertifika almaya hak kazanmıştır.
+                                                                        <i class="fa fa-bell text-info pull-right margin-ayar"></i>
+                                                                    </td>
+                                                                    <td>Merter IO</td>
+                                                                    <td>
+                                                                        <a href="personel-ekle.html">
+                                                                            <button class="btn btn-info pull-right btn-lg"
+                                                                                    type="button" data-toggle="tooltip"
+                                                                                    title="Düzenle"><i
+                                                                                    class="fa fa-edit"></i></button>
+                                                                        </a>
+
+                                                                    </td>
+                                                                </tr>
+                                                                <tr>
+                                                                    <td>1 Yıldızlı Altın Sertifika</td>
+                                                                    <td class="text-center"><img src="img/1yildizlisertifika.png" alt=""
+                                                                             style="width:40px"></td>
+                                                                    <td>300</td>
+                                                                    <td>
+                                                                        Sayın velimiz, öğrencimiz {X} Gümüş Sertifika almaya hak kazanmıştır.
+                                                                        <i class="fa fa-bell text-info pull-right margin-ayar"></i>
+                                                                    </td>
+                                                                    <td>Merter IO</td>
+                                                                    <td>
+                                                                        <a href="personel-ekle.html">
+                                                                            <button class="btn btn-info pull-right btn-lg"
+                                                                                    type="button" data-toggle="tooltip"
+                                                                                    title="Düzenle"><i
+                                                                                    class="fa fa-edit"></i></button>
+                                                                        </a>
+
+                                                                    </td>
+                                                                </tr>
+
+                                                                </tbody>
+                                                                <tfoot>
+                                                                <tr>
+                                                                    <td colspan="6">
+                                                                        <ul class="pagination pull-right"></ul>
+                                                                    </td>
+                                                                </tr>
+                                                                </tfoot>
+                                                            </table>
+                                                        </div>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <!--#ödev listesi-->
+                                    </div><!--#yeni tab-->
+
+                                </div>
+                            </div>
+                        </div>
+                        <!--#sutun1-->
+
+                    </div>
+                    <!--#duyurular-->
+                </div><!--#content-->
+            </div>
+            <!--footer-->
+            <div class="footer">
+                <div class="pull-right">
+                    10GB of <strong>250GB</strong> Free.
+                </div>
+                <div>
+                    <strong>Copyright</strong> Example Company &copy; 2014-2015
+                </div>
+            </div><!--#footer-->
+        </div>
+    </div>
+
+    <!-- Mainly scripts -->
+    <script src="js/jquery-2.1.1.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/plugins/metisMenu/jquery.metisMenu.js"></script>
+    <script src="js/plugins/slimscroll/jquery.slimscroll.min.js"></script>
+
+    <!-- FooTable -->
+    <script src="js/plugins/footable/footable.all.min.js"></script>
+
+    <!-- Custom and plugin javascript -->
+    <script src="js/inspinia.js"></script>
+    <script src="js/plugins/pace/pace.min.js"></script>
+
+    <!-- Page-Level Scripts -->
+    <script>
+        $(document).ready(function() {
+
+            $('.footable').footable();
+            $('.footable2').footable();
+
+        });
+
+    </script>
+
+
+    <!--multi select-->
+    <script src="js/jquery.multiselect.js"></script>
+    <script>
+        $('.multiselect1').multiselect({
+            columns: 1,
+            placeholder: 'Lütfen Seçiniz',
+            search: true,
+            selectAll: true
+        });
+
+        $('.multiselect2').multiselect({
+            columns: 2,
+            placeholder: 'Lütfen Seçiniz',
+            search: true,
+            selectAll: true
+        });
+    </script><!--/multi select-->
+</body>
+</html>
